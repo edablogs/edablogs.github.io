@@ -5,18 +5,18 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
-paginate:            5
+title:               EDA Blogs
+tagline:             'Examine Development & Analysis with Blog'
+description:         'Custom recovery for Zenfone 5, custom roms,latest firmware and mods,root android, zenfone 5 xda,asus zenfone 5 xda, All other Stuff and news'
+url:                 http://edablogs.com
+baseurl:             'http://edablogs.com'
+paginate:            1
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Pawneshwer Gupta
+  url:               https://twitter.com/pawneshwer
+  email:             pawneshwergupta@gmail.com
 
 # Custom vars
 version:             1.0.0
