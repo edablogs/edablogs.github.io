@@ -20,4 +20,4 @@ author:
 
 # Custom vars
 version:             1.0.0
-permalink: /categories/:title
+permalink: /:categories/:title
