@@ -9,7 +9,7 @@ title:               EDA Blogs
 tagline:             'Examine Development & Analysis with Blog'
 description:         'Custom recovery for Zenfone 5, custom roms,latest firmware and mods,root android, zenfone 5 xda,asus zenfone 5 xda, All other Stuff and news'
 url:                 http://edablogs.com
-baseurl:             'http://edablogs.com'
+baseurl:             ''
 paginate:            1
 
 # About/contact
