@@ -805,6 +805,9 @@ a.sidebar-nav-item:focus {
 	margin-left: auto;
 	margin-right: auto;
 }
+.eda-menu a{
+	color:#ffffff;
+}
 .eda-menu {
 	text-align: left;
 	display: inline;
