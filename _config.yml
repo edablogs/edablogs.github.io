@@ -30,7 +30,7 @@ facebook:
 version:             1.0.0
 permalink: /:categories/:title
 
-highlighter: true
+rouge: true
 
 # Build settings
 markdown: kramdown
