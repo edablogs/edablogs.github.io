@@ -1,0 +1,41 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               EDA Blogs
+tagline:             'Examination Development & Analysis with Blogs'
+description:         'Custom recovery for Zenfone 5, custom roms,latest firmware and mods,root android, zenfone 5 xda,asus zenfone 5 xda, All other Stuff and news'
+url:                 "http://edablogs.com"
+baseurl:             ""
+paginate: 4
+paginate_path: "page:num/"
+
+# About/contact
+author:
+  name:              Pawneshwer Gupta
+  url:               https://twitter.com/pawneshwer
+  email:             pawneshwergupta@gmail.com
+
+logo: '/assets/logo.png'
+
+  
+facebook:
+  app_id: 1378587825791443
+  publisher: 100002825163498
+
+# Custom vars
+version:             1.0.0
+permalink: /:categories/:title
+
+highlighter: true
+
+# Build settings
+markdown: kramdown
+
+include: ['.htaccess']
+
+gems:
+  - jekyll-seo-tag

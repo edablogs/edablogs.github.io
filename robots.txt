@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: http://edablogs.com/sitemap.xml
