@@ -1016,7 +1016,7 @@ html {
 	padding-right: 15px;
 	padding-left: 15px;
 }
-.eda-menu,#nav{
+.eda-menu,#nav, #head-ads{
 display:none;
 }
 }
