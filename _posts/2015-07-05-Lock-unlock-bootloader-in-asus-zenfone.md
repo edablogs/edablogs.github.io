@@ -5,6 +5,7 @@ date: '2015-07-05T18:29:00.000+05:30'
 author: Pawneshwer Gupta
 categories:
 - asus
+- zenfone
 tags:
 - Asus
 - Android (operating system)

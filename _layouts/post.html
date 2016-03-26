@@ -4,13 +4,37 @@ comments: yes
 ---
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+{% include breadcrumbs.html %}
   <header class="post-header">
+	{% for categorylist in page.categories %}
+      <div class="post-label">
+        <a href="/{{ categorylist }}">{{ categorylist | replace:'-',' ' }}</a>
+      </div>
+	{% endfor %}
 	  <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
 	  <p class="post-date"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+	  
 	  </header>
 	  <div class="post-content" itemprop="articleBody">
 			{{ content }}
+			<center>
+				<!-- new sidebar -->
+				<ins class="adsbygoogle"
+					 style="display:block"
+					 data-ad-client="ca-pub-7943122633795545"
+					 data-ad-slot="9787553910"
+					 data-ad-format="auto"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+			</center>
 	  </div>
+	  <div><b>Tagged with : </b></div>
+		<div class="site-tags">
+			{% for taglist in page.tags %}
+				<a href="#">{{ taglist | replace:'-',' ' }}</a>
+			{% endfor %}
+		</div>
 </article>
 
 <div class="related">
@@ -28,6 +52,7 @@ comments: yes
     {% endfor %}
   </ul>
 </div>
+
 <div id="disqus_thread"></div>
 <script>
     /**

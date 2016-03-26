@@ -6,6 +6,7 @@ author: Pawneshwer Gupta
 categories:
 - android
 - asus
+- zenfone
 - root
 tags:
 - root

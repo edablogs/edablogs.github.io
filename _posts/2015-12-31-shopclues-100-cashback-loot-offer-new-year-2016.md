@@ -4,7 +4,7 @@ title: Shopclues 100% cashback loot offer New Year
 date: '2015-12-31T13:16:00.000+05:30'
 author: Pawneshwer Gupta
 categories:
-- Amazing Tricks
+- amazing-tricks
 description: shopclues 100% cashback loot is here go now and shop to get 100% cashback,shopclues carnival 100% cashback loot.
 keywords: shopclues 100% cashback loot is here go now and shop to get 100% cashback,shopclues carnival 100% cashback loot.
 modified_time: '2016-02-20T06:52:39.869+05:30'

@@ -4,7 +4,7 @@ title: Install TWRP recovery in asus Zenfone Selfie
 date: '2016-03-01T18:48:00.001+05:30'
 author: Eda Blogs
 categories:
-- Asus
+- asus
 - zenfone-selfie
 description: flash twrp recovery in asus zenfone selfie,flash twrp recovery in zenfone selfie. custom recovery for asus zenfone selfie.easiest way to install twrp zenfone selfie
 keywords: custom recovery for zenfone selfie,twrp for zenfone selfie,twrp for asus zenfone,twrp recovery for selfie

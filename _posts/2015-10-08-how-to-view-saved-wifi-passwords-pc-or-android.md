@@ -4,8 +4,8 @@ title: How to view saved WiFi passwords PC or Android
 date: '2015-10-08T13:30:00.000+05:30'
 author: Pawneshwer Gupta
 categories:
-- Windows
-- Android
+- windows
+- android
 description: how to check wifi passwords on friend's pc or android mobile, command to get saved network passwords in windows,view saved wifi passwords, view connected wifi
 keywords: how to check wifi passwords on friend's pc or android mobile, command to get saved network passwords in windows,view saved wifi passwords, view connected wifi
 modified_time: '2016-02-20T06:52:39.877+05:30'

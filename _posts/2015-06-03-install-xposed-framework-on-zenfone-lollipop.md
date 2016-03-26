@@ -5,6 +5,7 @@ date: '2015-06-03T10:26:00.000+05:30'
 author: Pawneshwer Gupta
 categories:
 - android
+- zenfone
 - xpose
 tags:
 - xpose

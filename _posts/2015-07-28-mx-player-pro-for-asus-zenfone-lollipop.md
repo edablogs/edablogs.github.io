@@ -4,8 +4,9 @@ title: mx player pro for Asus Zenfone Lollipop
 date: '2015-07-28T18:33:00.000+05:30'
 author: Pawneshwer Gupta
 categories:
-- Asus
-- Android
+- android
+- asus
+- zenfone
 description: mx player pro for asus zenfone and other x86 based processor,fully working latest mx player pro for zenfone 5,latest mx player pro for zenfone, mx player
 keywords: mx player pro for asus zenfone and other x86 based processor,fully working latest mx player pro for zenfone 5,latest mx player pro for zenfone, mx player
 modified_time: '2016-02-20T06:52:39.975+05:30'

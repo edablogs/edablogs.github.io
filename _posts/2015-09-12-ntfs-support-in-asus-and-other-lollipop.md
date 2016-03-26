@@ -4,7 +4,7 @@ title: NTFS support in Asus and other Lollipop Devices
 date: '2015-09-12T16:23:00.000+05:30'
 author: Pawneshwer Gupta
 categories:
-- Asus
+- asus
 - Lollipop
 - zenfone
 description: enable NTFS support in asus zenfone and other lollipop device,full access to NTFS file system in asus zenfone and other lolipop devices,NTFS OTG support

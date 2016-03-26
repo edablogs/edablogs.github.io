@@ -1,0 +1,15 @@
+{% assign crumbs = page.url | split: '/' %}
+
+<div class="breadcrumbs">
+    <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+        <a href="/">Home</a> &#187; 
+    {% for crumb in crumbs offset: 1 %}
+        {% if forloop.last %}
+            {{ crumb | replace:'-',' ' }}
+        {% else %}
+        {% assign crumb_limit = forloop.index | plus: 1 %}
+            <a href="/{{ crumb }}">{{ crumb | replace:'-',' ' }}</a> &#187; 
+        {% endif %}
+    {% endfor %}
+    </span>
+</div>

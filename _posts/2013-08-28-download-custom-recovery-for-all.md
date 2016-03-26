@@ -4,7 +4,7 @@ title: 'Download Custom recovery for all Android mobile '
 date: '2013-08-28T16:54:00.000+05:30'
 author: Pawneshwer Gupta
 categories:
-- Custom recovery
+- custom-recovery
 tags:
 - Custom recovery
 modified_time: '2016-02-20T06:51:59.317+05:30'

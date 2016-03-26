@@ -4,8 +4,8 @@ title: Execution failed for task ':app:clean' unable to delete jars\classes.jar
 date: '2015-12-03T01:45:00.000+05:30'
 author: Pawneshwer Gupta
 categories:
-- Android Studio
-- Android
+- Android-Studio
+- android
 description: android studio unable to delete jars\classes.jar while cleaning or rebuilding project,to solve unable to delete jars\classes.jar issue just follow given steps
 keywords: android studio unable to delete jars\classes.jar while cleaning or rebuilding project,to solve unable to delete jars\classes.jar issue just follow given steps
 modified_time: '2016-02-20T06:52:39.883+05:30'

@@ -4,7 +4,7 @@ title: Asus PixelMaster Camera v2.0.60.3 apk download Link
 date: '2016-03-10T13:14:00.002+05:30'
 author: Pawneshwer Gupta
 categories:
-- Asus
+- asus
 - Zenfone
 tags:
 - Asus

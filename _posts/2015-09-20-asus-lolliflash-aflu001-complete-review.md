@@ -5,7 +5,7 @@ date: '2015-09-20T10:39:00.000+05:30'
 author: Pawneshwer Gupta
 categories:
 - LolliFlash
-- Asus
+- asus
 description: asus lolliflash complete review,asus lolliflash review which advantages and disadvantages, facts about asus lolliflash,lolliflash unboxing video
 keywords: asus lolliflash complete review,asus lolliflash review which advantages and disadvantages, facts about asus lolliflash,lolliflash unboxing video
 modified_time: '2016-02-20T06:52:39.981+05:30'

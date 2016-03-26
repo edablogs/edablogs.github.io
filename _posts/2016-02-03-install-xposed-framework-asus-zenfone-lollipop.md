@@ -5,7 +5,7 @@ date: '2016-02-03T15:07:00.000+05:30'
 author: Pawneshwer Gupta
 categories:
 - xpose
-- Asus
+- asus
 - zenfone
 description: how to install xposed installer on asus zenfone 5 and other x86 based mobiles easily from twrp without pc,without bootloop easily,xposed framework asus zenfone lollipop
 keywords: how to install xposed installer on asus zenfone 5 and other x86 based mobiles easily from twrp without pc,without bootloop easily,xposed framework asus zenfone lollipop

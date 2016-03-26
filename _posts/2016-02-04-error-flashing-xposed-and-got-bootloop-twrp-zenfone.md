@@ -4,10 +4,10 @@ title: Error flashing Xposed and got Bootloop TWRP Zenfone
 date: '2016-02-04T14:45:00.000+05:30'
 author: Pawneshwer Gupta
 categories:
-- xpose
 - Asus
+- zenfone-5
 - Lollipop
-- zenfone 5
+- xpose
 description: got error after flashing xposed framework from TWRP error updating system binary, got into bootloop after xposed failed to install through TWRP, recovery without reset
 keywords: got error after flashing xposed framework from TWRP error updating system binary, got into bootloop after xposed failed to install through TWRP, recovery without reset
 modified_time: '2016-02-20T06:50:40.998+05:30'

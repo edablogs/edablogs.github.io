@@ -4,7 +4,7 @@ title: Watch online TV lifetime subscription for free
 date: '2015-10-01T13:16:00.000+05:30'
 author: Pawneshwer Gupta
 categories:
-- live tv
+- live-tv
 description: ditto tv hack to get premium subscription for lifetime for free, watch online tv on android,tablet,desktop, watch all tv channel live for free premium pack
 keywords: ditto tv hack to get premium subscription for lifetime for free, watch online tv on android,tablet,desktop, watch all tv channel live for free premium pack
 modified_time: '2016-02-20T06:52:39.993+05:30'

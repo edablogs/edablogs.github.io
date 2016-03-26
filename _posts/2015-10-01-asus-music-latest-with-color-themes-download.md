@@ -4,7 +4,7 @@ title: Asus Music latest with Color themes Download
 date: '2015-10-01T12:15:00.000+05:30'
 author: Pawneshwer Gupta
 categories:
-- Asus
+- asus
 - zenfone
 description: latest Asus Music latest with Color themes Download for free, asus music player custom theme,asus music latest update, asus music beta version latest download
 keywords: latest Asus Music latest with Color themes Download for free, asus music player custom theme,asus music latest update, asus music beta version latest download
