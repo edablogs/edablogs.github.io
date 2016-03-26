@@ -5,7 +5,7 @@ date: '2016-03-10T13:14:00.002+05:30'
 author: Pawneshwer Gupta
 categories:
 - asus
-- Zenfone
+- zenfone
 tags:
 - Asus
 description: latest Asus PixelMaster Camera v2.0.60.3 march 08 2016 update apk file for those who disn't get update from google playstore. latest asus pixelmaster download

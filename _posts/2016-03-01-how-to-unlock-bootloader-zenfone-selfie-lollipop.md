@@ -4,7 +4,7 @@ title: How to unlock Bootloader Zenfone Selfie Lollipop
 date: '2016-03-01T17:09:00.002+05:30'
 author: Eda Blogs
 categories:
-- Asus
+- asus
 - zenfone-selfie
 description: unlock bootloader asus zenfone selfie,how to unlock bootloader in zenfone selfie,easy way to unlock bootloader in zenfone selfie,official way to unlock bootloader
 keywords: bootloader unlock zenfone selfie,unlock bootloader selfie,unlock bootloader zenfone selfie,unlock bootloader zenfone
