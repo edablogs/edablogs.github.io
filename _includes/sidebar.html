@@ -15,7 +15,6 @@
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
     {% endcomment %}
-
     {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
       {% if node.title != null %}
@@ -25,8 +24,13 @@
       {% endif %}
     {% endfor %}
 
+<<<<<<< HEAD
     <a class="sidebar-nav-item" href="/android">Android</a>
     <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+=======
+    <a class="sidebar-nav-item" href="{{ site.categories.[android] }}  ">Android</a>
+    
+>>>>>>> origin/master
     <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
   </nav>
 

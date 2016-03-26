@@ -1156,6 +1156,9 @@ html {
 	padding-right: 15px;
 	padding-left: 15px;
 }
+.eda-menu,#nav, #head-ads{
+display:none;
+}
 }
 
 @media screen and (max-width: 900px) {
