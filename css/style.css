@@ -1006,6 +1006,9 @@ a.sidebar-nav-item:focus {
 	color: #FFF;
 	text-shadow: -1px -1px 0 rgba(153,102,51,0.3);
 }
+.post-content p, .post-content li{
+  text-align: justify;
+}
 
 @media (min-width: 30em) {
 .pagination {
