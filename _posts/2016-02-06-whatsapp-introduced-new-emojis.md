@@ -3,6 +3,7 @@ layout: post
 title: Whatsapp introduced new Emojis on latest version
 date: '2016-02-06T12:35:00.000+05:30'
 author: Pawneshwer Gupta
+comments: true
 categories:
 - Whatsapp
 description: news emojies in official whatsapp, latest version of whatsapp have more emojies. latest cool emojies in whatsapp official version. cool emojies whatsapp

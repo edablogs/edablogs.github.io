@@ -3,6 +3,7 @@ layout: post
 title: Now 256 members are allowed in whatsapp group
 date: '2016-02-05T11:28:00.000+05:30'
 author: Pawneshwer Gupta
+comments: true
 categories:
 - Whatsapp
 description: whatsapp group member limit increased to 256, Now 256 members are allowed in whatsapp group add morethan 100 members in whatsapp group, no need to remove
