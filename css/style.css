@@ -1131,6 +1131,9 @@ html {
     #head-ads{
         display: none;
     }
+    #head-logo{
+      float:none;
+    }
 }
 @media screen and (max-width: 800px) {
 .main-nav {
