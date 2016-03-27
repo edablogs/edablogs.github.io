@@ -1009,6 +1009,42 @@ a.sidebar-nav-item:focus {
 .post-content p, .post-content li{
   text-align: justify;
 }
+#sidebar-title{
+    color: #e5e5e5;
+}
+
+/**** Share button  ***/
+.share-page {
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+.share-page a:hover{
+    text-decoration: none;
+}
+a.twitter {
+    background-color: #2DAAE1;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+}
+a.facebook {
+    color: #fff;
+    background-color: #3C5B9B;
+    padding: 2px 5px 2px 5px;
+}
+a.google {
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    background-color: #F63E28;
+}
+a.pinterest {
+    padding: 2px 5px 2px 5px;
+    color: #fff;
+    background-color: #CB2027;
+}
+
+/******
+    Responsive Media Queries
+******/
 
 @media (min-width: 30em) {
 .pagination {
