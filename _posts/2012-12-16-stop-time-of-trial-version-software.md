@@ -3,6 +3,7 @@ layout: post
 title: Stop time of trial version software
 date: '2012-12-16T03:43:00.000+05:30'
 author: Pawneshwer Gupta
+comments: true
 categories:
 - computer
 tags:

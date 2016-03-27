@@ -3,6 +3,7 @@ layout: post
 title: zbigz.com premium account download torrent with IDM
 date: '2012-12-07T02:50:00.000+05:30'
 author: Pawneshwer Gupta
+comments: true
 categories:
 - internet
 tags:

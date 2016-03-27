@@ -3,6 +3,7 @@ layout: post
 title: Add multiple facebook account in facebook messenger
 date: '2016-02-25T12:53:00.001+05:30'
 author: Pawneshwer Gupta
+comments: true
 categories:
 - facebook
 description: add multiple facebook accounts in facebook messenger app, morethan 2 facebook accounts in facebook messenger app,update facebook messenger to add multiple

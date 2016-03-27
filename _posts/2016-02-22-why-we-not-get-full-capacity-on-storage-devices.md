@@ -3,6 +3,7 @@ layout: post
 title: why we not get full capacity on storage devices?
 date: '2016-02-22T23:34:00.000+05:30'
 author: Pawneshwer Gupta
+comments: true
 categories:
 - how-to
 description: logic behind storage capacity, why we get less space in storage devices,why we not get full space on storage devices,why memory leak in storage devices

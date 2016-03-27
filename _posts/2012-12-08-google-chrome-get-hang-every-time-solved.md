@@ -3,6 +3,7 @@ layout: post
 title: Google chrome get hang every time (solved)
 date: '2012-12-08T02:58:00.000+05:30'
 author: Pawneshwer Gupta
+comments: true
 categories:
 - internet
 tags:

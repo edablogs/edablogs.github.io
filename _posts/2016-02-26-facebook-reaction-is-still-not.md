@@ -3,6 +3,7 @@ layout: post
 title: Facebook Reaction is still not available for old Facebook accounts
 date: '2016-02-26T07:57:00.000+05:30'
 author: Pawneshwer Gupta
+comments: true
 categories:
 - facebook
 description: Facebook reaction is not available yet to old profile, but Facebook reaction is available for new account. maybe Facebook is still testing Facebook reaction fot old account too.

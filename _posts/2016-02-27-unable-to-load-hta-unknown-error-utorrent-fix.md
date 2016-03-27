@@ -3,6 +3,7 @@ layout: post
 title: 'Unable to load HTA: Unknown Error uTorrent fix'
 date: '2016-02-27T12:17:00.000+05:30'
 author: Pawneshwer Gupta
+comments: true
 categories:
 - uTorrent
 description: fix windows 10 compatibility in utorrent,utorrent not compatible in windows 10,unable to start magnet in windows 10, unble to load HTA unknown error utorrent

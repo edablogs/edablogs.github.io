@@ -3,6 +3,7 @@ layout: post
 title: Create bootable pendrive without any software
 date: '2012-12-09T07:35:00.000+05:30'
 author: Pawneshwer Gupta
+comments: true
 categories:
 - computer
 tags:

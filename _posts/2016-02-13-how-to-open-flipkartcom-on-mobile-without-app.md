@@ -3,6 +3,7 @@ layout: post
 title: How to open flipkart.com on mobile without app
 date: '2016-02-13T10:47:00.000+05:30'
 author: Pawneshwer Gupta
+comments: true
 categories:
 - how-to
 description: open flipkart mobile version without app,open flipkart on mobile browser,open flipkart mobile site without app,no need to download flipkart app on mobile

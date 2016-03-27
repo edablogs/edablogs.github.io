@@ -3,6 +3,7 @@ layout: post
 title: Internet download manager add on for latest firefox
 date: '2013-01-13T03:49:00.000+05:30'
 author: Pawneshwer Gupta
+comments: true
 categories:
 - internet
 tags:
