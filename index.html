@@ -14,8 +14,12 @@ title: Home
 
             {% if foundImage == 0 %}
                 {% assign html = image | split:"/>" | first %}
-                <img {{ html }} class="thumb" height="170px" width="250px" />
+				<a href="{{ post.url }}">
+                <img {{ html }} class="thumb" height="170px" width="250px" /></a>
                 {% assign foundImage = 1 %}
+				{% else %}
+				<a href="{{ post.url }}">
+                <img src="/assets/icon/img_not_available.png" alt="{{ post.title }}" class="thumb" height="170px" width="250px" /></a>
             {% endif %}
         {% endif %}
       {% endfor %}
