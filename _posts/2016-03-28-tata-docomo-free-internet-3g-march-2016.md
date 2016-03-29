@@ -20,7 +20,7 @@ Hello **TATA DOCOMO** users, after many years there is trick to get free interne
 
 [![tata docomo free internet trick, tata docomo free 3g data trick](https://1.bp.blogspot.com/-03ZKNb1KFNo/VvlhqAtdAvI/AAAAAAAAIfM/-Hcyq_cfq3UfCvwIhMj7Xh7HREjNrxHeA/s320/Tata-Docomo-3G.jpg)](https://1.bp.blogspot.com/-03ZKNb1KFNo/VvlhqAtdAvI/AAAAAAAAIfM/-Hcyq_cfq3UfCvwIhMj7Xh7HREjNrxHeA/s1600/Tata-Docomo-3G.jpg)
 
-I have tested this trick on 0 balance. and maybe this will not deduct money if you try on above 1rs balance. But to be safe just try to access Internet and check is your balance deducting or not. If you can access internet with balance more than 1rs without any problem then do comment below and let us know so we can also enjoy this free internet offer without loosing balance.
+I have tested this trick on 0 balance. and maybe this will not deduct money if you try on above 1RS balance. But to be safe just try to access Internet and check is your balance deducting or not. If you can access internet with balance more than 1rs without any problem then do comment below and let us know so we can also enjoy this free internet offer without loosing balance.
 
 ## <span style="color: #ff6600;">How to get free internet on TATA Docomo ?</span>
 
