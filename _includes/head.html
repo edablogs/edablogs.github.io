@@ -1,7 +1,13 @@
 <head>
   <link href="http://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-
+	<title>
+		{% if page.title == "Home" %}
+		  {{ site.title }} - {{ site.tagline }}
+		{% else %}
+		  {{ page.title }} - {{ site.title }}
+		{% endif %}
+	</title>
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
   {% if page.description %}<meta name="description" content="{{ page.description }}" />{% endif %}
@@ -42,6 +48,6 @@
   <meta name="msvalidate.01" content="4404B7D08AD9C88F2499A5532B37A15B" />
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-  {% seo %}
+  {% seo title=false %}
 
 </head>
