@@ -1041,7 +1041,23 @@ a.pinterest {
     color: #fff;
     background-color: #CB2027;
 }
+.input-btn{
+	padding: 7px;
+    background-color: #1295C9;
+    color: white;
+    border: none;
+    width: 70px;
+	cursor: pointer;
+}
+.input-btn:hover {
+    background-color: black;
+}
+.input-txt{
+    border: 1px solid rgb(126, 157, 185);
+    background: rgb(255, 255, 255);
+    padding: 6px;
 
+}
 /******
     Responsive Media Queries
 ******/
