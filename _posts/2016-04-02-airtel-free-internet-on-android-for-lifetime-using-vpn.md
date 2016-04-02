@@ -38,7 +38,7 @@ this trick will works great on _Unrooted_ and _rooted_ mobile. To protect your s
 
 *   open _[http header](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields "List of HTTP header fields")_ settings. and wrote below command in box.
 
-{% highlight json %}
+{% highlight ruby %}
 Host: one.airtel.in 
 X-Online-Host: one.airtel.in
 {% endhighlight %}
