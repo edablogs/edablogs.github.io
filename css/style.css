@@ -1052,9 +1052,9 @@ a.pinterest {
     background-color: black;
 }
 .input-txt{
-    border: 1px solid rgb(126, 157, 185);
-    background: rgb(255, 255, 255);
-    padding: 6px;
+    border: 1px solid rgb(126, 157, 185) !important;
+    background: rgb(255, 255, 255) !important;
+    padding: 6px !important;
 
 }
 /******
