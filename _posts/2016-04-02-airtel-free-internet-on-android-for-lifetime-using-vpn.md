@@ -38,8 +38,10 @@ this trick will works great on _Unrooted_ and _rooted_ mobile. To protect your s
 
 *   open _[http header](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields "List of HTTP header fields")_ settings. and wrote below command in box.
 
-> Host: one.airtel.in 
-> X-Online-Host: one.airtel.in
+{% highlight json %}
+Host: one.airtel.in 
+X-Online-Host: one.airtel.in
+{% endhighlight %}
 
 [![Airtel free internet on android for lifetime using VPN](/res/2016/04/Airtel-free-internet-vpn-trick-2-copy-168x300.png)](/res/2016/04/Airtel-free-internet-vpn-trick-2-copy.png)
 
