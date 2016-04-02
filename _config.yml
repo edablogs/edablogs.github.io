@@ -38,6 +38,5 @@ markdown: kramdown
 include: ['.htaccess']
 
 gems:
-  - jekyll-seo-tag
   - jekyll-redirect-from
   - jekyll-sitemap
