@@ -22,7 +22,7 @@ thumbnail: /res/2016/04/airtel-free-internet-logo.jpg
 
 this trick will works great on _Unrooted_ and _rooted_ mobile. To protect your sim from blocking don't use morethan 150mb continuously. I will suggest you to use 150mb per day.
 
-###Use this trick on 0 balance to get rid from balance deduction.
+### Use this trick on 0 balance to get rid from balance deduction.
 
 ## How to get airtel free internet using VPN?
 
