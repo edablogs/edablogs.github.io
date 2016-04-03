@@ -4,6 +4,8 @@
 
 {% if page.author %}
 {% assign author = site.authors[page.author] %}
+{% else %}
+{% assign author = site.authors["pawneshwer"] %}
 {% endif %}
 
 {% if site.url %}
@@ -150,10 +152,72 @@
   <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
 {% endif %}
 
-<script type="application/ld+json">
-  {% if seo_homepage_or_about %}
-  
+
+{% if seo_homepage_or_about %}
+  <script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "url": "{{ site.url }}",
+    "name": "{{ site.title }}",
+    "description": "{{ site.description }}",
+    "mainEntityOfPage": {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "@id": "{{ site.url }}"
+    },
+    "alternateName": "{{ site.tagline }}",
+    "potentialAction": {
+        "@context": "http://schema.org",
+        "@type": "SearchAction",
+        "target": "{{ site.url }}/search-result.html?cx=partner-pub-7943122633795545%3A3898700314&cof=FORID%3A10&ie=UTF-8&q={search_term_string}",
+        "query-input": "required name=search_term_string"
+    }
+}</script>
+<script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "url": "{{ site.url }}",
+    "name": "{{ site.title }}",
+    "description": "{{ site.description }}",
+    "logo": {
+        "@context": "http://schema.org",
+        "@type": "ImageObject",
+        "url": "{{ site.url }}/{{ site.logo }}",
+        "width": 257,
+        "height": 150
+    },
+    "sameAs": [
+        "https://www.facebook.com/XDAblogsOfficial",
+        "https://plus.google.com/+XDAblogss",
+        "https://www.pinterest.com/xdablogs/",
+        "https://twitter.com/XDABlogs"
+    ]
+}</script>
+<script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "url": "{{ author.web }}",
+    "name": "{{ author.name }}",
+    "description": "{{ author.about }}",
+    "image": [
+        {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "url": "{{ site.url }}{{ author.avatar }}",
+            "width": 512,
+            "height": 512
+        }
+    ],
+    "sameAs": [
+        "{{ author.facebook }}",
+        "{{ author.google }}",
+        "{{ author.linkedin }}",
+        "{{ author.twitter }}",
+        "{{ author.pinterest }}"
+    ]
+}</script>
   {% else %}
+  <script type="application/ld+json">
     {
     "@context": "http://schema.org",
     "@type": "TechArticle",
@@ -198,18 +262,25 @@
                     "width": 512,
                     "height": 512
                 }
-            ]
+            ],
+            "sameAs": [
+            "{{ author.facebook }}",
+            "{{ author.google }}",
+            "{{ author.linkedin }}",
+            "{{ author.twitter }}",
+            "{{ author.pinterest }}"
+        ]
         }
     ],
     "image": [
         {
             "@context": "http://schema.org",
             "@type": "ImageObject",
-            "url": "{{ site.url }}{{ page.thumbnail }}",
+            "url": "{{}}{{ page.thumbnail }}",
             "width": 500,
             "height": 500
         }
     ]
 }
-  {% endif %}
 </script>
+  {% endif %}

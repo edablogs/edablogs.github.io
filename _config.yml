@@ -16,7 +16,8 @@ paginate_path: "page:num/"
 # About/contact
 author:
   name:              Pawneshwer Gupta
-  url:               https://twitter.com/pawneshwer
+  url:               http://edablogs.com
+  twitter: https://twitter.com/pawneshwer
   email:             pawneshwergupta@gmail.com
 
 authors: 
@@ -26,6 +27,7 @@ authors:
     avatar: /assets/users/pawneshwer/photo.jpg
     web: http://edablogs.com
     github: edablogs
+    linkedin: https://www.linkedin.com/in/pawneshwer
     twitter: https://twitter.com/pawneshwer
     pinterest: https://www.pinterest.com/xdablogs/
     facebook: https://www.facebook.com/pawneshwerr.gupta
@@ -39,6 +41,7 @@ authors:
     web: http://edablogs.com
     github: edablogs
     pinterest: https://www.pinterest.com/xdablogs/
+    linkedin: https://www.linkedin.com/in/pawneshwer
     facebook: https://www.facebook.com/XDAblogsOfficial
     google: https://plus.google.com/+XDAblogss
     twitter: https://twitter.com/XDABlogs
