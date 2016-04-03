@@ -1,9 +1,9 @@
 <aside id="sidebar-wrapper-left" itemscope="" itemtype="http://schema.org/WPSideBar">
     <h3>Topics</h3>
-    {% for category in site.categories %}
-    <li style="font-size: {{ category | last | size | times: 100 | divided_by: site.categories.size | plus: 70 }}">
-        <a href="/{{ category | first | slugize }}/">
-            {{ category | first }}
+    {% for tag in site.tags %}
+    <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 70 }}">
+        <a href="/{{ tag | first | slugize }}/">
+            {{ tag | first }}
         </a>
     </li>
 {% endfor %}
