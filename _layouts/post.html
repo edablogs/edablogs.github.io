@@ -13,7 +13,7 @@ comments: yes
         <a href="/{{ categorylist }}">{{ categorylist | replace:'-',' ' }}</a>
       </div>
 	{% endfor %}
-	  <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+	  <h1 class="post-title" itemprop="name headline"><a href="{{ page.url }}" itemprop='url'>{{ page.title }}</a></h1>
 	  <p class="post-date"><time datetime="{{ page.modified_time | date_to_xmlschema }}" itemprop="dateModified">{{ page.modified_time | date: "%b %-d, %Y" }}</time> | <span >
 		<span>{{ author.name }}</span></span>
 		
