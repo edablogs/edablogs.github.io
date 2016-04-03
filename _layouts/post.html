@@ -18,7 +18,7 @@ comments: yes
 		<span>{{ author.name }}</span></span>
 		
 		</p><div class='datepost' itemprop='datePublished' style='display:none'>{{ page.date | date: "%b %-d, %Y" }}</div>
-	  <meta property="image" content="{{ page.thumbnail }}" />
+	  <meta content="{{ site.url }}{{ page.thumbnail }}" itemprop='image' />
 	  
 	  </header>
 	  <div class="post-content" itemprop="articleBody">
