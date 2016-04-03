@@ -1,6 +1,4 @@
-<!-- Begin Jekyll SEO tag v{{ seo_tag.version }} -->
-
-{% if page.url == "/" or page.url == "/about/" %}
+{% if page.url == "/" or page.url == "/about" %}
   {% assign seo_homepage_or_about = true %}
 {% endif %}
 
@@ -106,8 +104,10 @@
   <meta property="og:site_name" content="{{ seo_site_title }}" />
 {% endif %}
 
-{% if page.image %}
-  <meta property="og:image" content="{{ page.image | prepend: seo_url | escape }}" />
+{% if page.thumbnail %}
+  <meta property="og:image" content="{{ page.thumbnail }}" />
+  <meta property="image" content="{{ page.thumbnail }}" />
+  <meta property="twitter:image" content="{{ page.thumbnail }}" />
 {% endif %}
 
 {% if page.date %}
@@ -174,7 +174,7 @@
     "description": {{ seo_description | jsonify }},
 {% endif %}
 
-{% if site.logo %}
+{% if site.logo and seo_homepage_or_about %}
     "image": {{ site.logo | prepend: "/" | prepend: seo_url | jsonify }},
 {% endif %}
 
@@ -185,5 +185,3 @@
     "url": {{ page.url | prepend: seo_url | replace:'/index.html','/' | jsonify }}
   }
 </script>
-
-<!-- End Jekyll SEO tag -->
