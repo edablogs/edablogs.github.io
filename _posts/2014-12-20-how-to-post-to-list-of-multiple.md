@@ -2,7 +2,7 @@
 layout: post
 title: How to post to list of Multiple facebook groups by single post
 date: '2014-12-20T16:34:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - facebook
 tags:

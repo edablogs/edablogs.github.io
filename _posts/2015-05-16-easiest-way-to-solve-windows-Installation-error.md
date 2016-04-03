@@ -2,7 +2,7 @@
 layout: post
 title: Easiest way to Solve windows Installation error
 date: '2015-05-16T00:50:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - windows
 tags:

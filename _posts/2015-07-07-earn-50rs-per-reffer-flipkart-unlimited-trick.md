@@ -2,7 +2,7 @@
 layout: post
 title: Earn 50rs per reffer flipkart unlimited trick
 date: '2015-07-07T10:25:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - earn-money
 tags:

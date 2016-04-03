@@ -2,7 +2,7 @@
 layout: post
 title: 'Unable to load HTA: Unknown Error uTorrent fix'
 date: '2016-02-27T12:17:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 comments: true
 categories:
 - uTorrent

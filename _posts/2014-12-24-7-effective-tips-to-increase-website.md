@@ -2,7 +2,7 @@
 layout: post
 title: 7 effective tips to Increase website Rank on Alexa
 date: '2014-12-24T14:38:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - earn-money
 tags:

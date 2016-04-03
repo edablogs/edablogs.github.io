@@ -2,7 +2,7 @@
 layout: post
 title: Tata docomo free internet 3G March 2016
 date: '2016-03-28T23:14:00.002+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - free-internet
 tags:

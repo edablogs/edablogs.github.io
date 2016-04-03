@@ -2,7 +2,7 @@
 layout: post
 title: 100% working free call trick
 date: '2013-01-19T09:35:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - free-call
 tags:

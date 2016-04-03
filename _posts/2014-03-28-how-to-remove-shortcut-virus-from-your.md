@@ -2,7 +2,7 @@
 layout: post
 title: How to remove shortcut virus from your pendrive without antivirus
 date: '2014-03-28T21:43:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - how-to
 tags:

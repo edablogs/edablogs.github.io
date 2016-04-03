@@ -2,7 +2,7 @@
 layout: post
 title: Microsoft office Professional plus 2013 with key (Life time)
 date: '2013-01-16T00:11:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 comments: true
 categories:
 - computer

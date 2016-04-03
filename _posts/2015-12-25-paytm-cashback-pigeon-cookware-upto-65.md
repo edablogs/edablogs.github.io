@@ -2,7 +2,7 @@
 layout: post
 title: Paytm Cashback - Pigeon Cookware Upto 65% off
 date: '2015-12-25T21:54:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - paytm-cashback
 description: paytm cashback on cookware upto 65% 2016, go hurry and get this amazing offer today

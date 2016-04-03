@@ -2,7 +2,7 @@
 layout: post
 title: Internet Download manager with genuine serial key latest version
 date: '2014-04-30T10:25:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - computer
 tags:

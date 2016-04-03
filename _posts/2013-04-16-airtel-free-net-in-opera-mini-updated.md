@@ -2,7 +2,7 @@
 layout: post
 title: Airtel free net in Opera mini updated
 date: '2013-04-16T23:16:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - free-internet
 tags:

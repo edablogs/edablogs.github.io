@@ -2,7 +2,7 @@
 layout: post
 title: Hide whatsapp images from gallery no root
 date: '2015-03-27T00:39:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - whatsapp

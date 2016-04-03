@@ -2,7 +2,7 @@
 layout: post
 title: SD card write permission fix for Asus Zenfone Lollipop Kitkat
 date: '2015-06-15T12:04:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - asus
 - zenfone-5

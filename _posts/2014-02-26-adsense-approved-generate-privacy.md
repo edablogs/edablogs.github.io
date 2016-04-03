@@ -3,7 +3,7 @@ layout: post
 title: 'Adsense approved : Generate privacy policy for your website for free easy
   way'
 date: '2014-02-26T16:08:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - adsense
 tags:

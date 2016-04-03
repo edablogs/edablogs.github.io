@@ -2,7 +2,7 @@
 layout: post
 title: 'Free call on Android from Nanu on any mobile on 2G also '
 date: '2014-10-22T09:26:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - free-call
 tags:

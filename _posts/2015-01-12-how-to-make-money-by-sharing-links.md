@@ -2,7 +2,7 @@
 layout: post
 title: how to make money by sharing links Ziddu.com
 date: '2015-01-12T03:43:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - earn-money
 tags:

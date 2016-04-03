@@ -2,7 +2,7 @@
 layout: post
 title: Windows 10 crash due to Bitdefender Antivirus
 date: '2015-08-03T14:43:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - windows
 tags:

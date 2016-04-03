@@ -2,7 +2,7 @@
 layout: post
 title: Lone theme port for Zenfone 5 Stock lollipop v2
 date: '2015-07-25T18:12:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - asus
 - zenfone-5

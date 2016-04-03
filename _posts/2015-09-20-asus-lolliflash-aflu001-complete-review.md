@@ -2,7 +2,7 @@
 layout: post
 title: Asus LolliFlash AFLU001 Complete Review
 date: '2015-09-20T10:39:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - LolliFlash
 - asus

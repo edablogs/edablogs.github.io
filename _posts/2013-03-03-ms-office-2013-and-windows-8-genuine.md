@@ -2,7 +2,7 @@
 layout: post
 title: MS Office 2013 and windows 8 Genuine Activator
 date: '2013-03-03T17:54:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - computer
 tags:

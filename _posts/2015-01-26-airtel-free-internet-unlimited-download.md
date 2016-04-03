@@ -2,7 +2,7 @@
 layout: post
 title: Airtel free internet unlimited download Feb 2015
 date: '2015-01-26T00:16:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - airtel

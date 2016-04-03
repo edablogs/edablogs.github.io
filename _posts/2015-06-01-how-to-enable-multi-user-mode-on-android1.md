@@ -2,7 +2,7 @@
 layout: post
 title: How to enable Multi user mode on Android
 date: '2015-06-01T07:58:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - root

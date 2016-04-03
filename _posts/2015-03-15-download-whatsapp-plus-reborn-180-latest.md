@@ -2,7 +2,7 @@
 layout: post
 title: Download whatsapp plus Reborn 1.80 latest
 date: '2015-03-15T11:52:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - whatsapp

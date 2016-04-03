@@ -2,7 +2,7 @@
 layout: post
 title: Cm 12.1 by dgadelha for Zenfone 5 Review
 date: '2016-02-07T13:54:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 comments: true
 categories:
 - cm12

@@ -2,7 +2,7 @@
 layout: post
 title: 10 best websites for Android app development
 date: '2015-08-15T14:51:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 tags:

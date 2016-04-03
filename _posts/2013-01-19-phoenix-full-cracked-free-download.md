@@ -2,7 +2,7 @@
 layout: post
 title: Phoenix full cracked free download
 date: '2013-01-19T01:14:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - nokia
 tags:

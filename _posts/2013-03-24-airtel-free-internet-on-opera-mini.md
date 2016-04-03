@@ -2,7 +2,7 @@
 layout: post
 title: Airtel free internet on opera mini march 2013
 date: '2013-03-24T21:42:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - free-internet
 tags:

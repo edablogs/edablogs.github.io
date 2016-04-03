@@ -2,7 +2,7 @@
 layout: post
 title: zbigz.com online premium cookie generator free
 date: '2013-02-28T22:59:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - zbigz
 tags:

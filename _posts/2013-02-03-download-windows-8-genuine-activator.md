@@ -2,7 +2,7 @@
 layout: post
 title: Download windows 8 genuine Activator
 date: '2013-02-03T22:34:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - computer
 tags:

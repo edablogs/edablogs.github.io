@@ -2,7 +2,7 @@
 layout: post
 title: Jaf Pkey emulator full direct download link
 date: '2013-02-16T13:45:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - nokia
 tags:

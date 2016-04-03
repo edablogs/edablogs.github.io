@@ -2,7 +2,7 @@
 layout: post
 title: 1 Year premium hosting for free
 date: '2014-01-08T23:21:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - free-hosting
 tags:

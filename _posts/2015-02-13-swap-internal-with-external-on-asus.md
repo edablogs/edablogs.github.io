@@ -2,7 +2,7 @@
 layout: post
 title: Swap internal with external on Asus Zenfone and other
 date: '2015-02-13T01:21:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - asus

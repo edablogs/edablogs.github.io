@@ -2,7 +2,7 @@
 layout: post
 title: How to remove ads from utorrent all versions in Windows
 date: '2015-05-19T00:48:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - windows
 tags:

@@ -2,7 +2,7 @@
 layout: post
 title: How to get reply option in comments on facebook profile
 date: '2014-02-15T15:24:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - how-to
 - facebook

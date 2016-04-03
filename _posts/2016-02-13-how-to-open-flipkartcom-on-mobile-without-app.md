@@ -2,7 +2,7 @@
 layout: post
 title: How to open flipkart.com on mobile without app
 date: '2016-02-13T10:47:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 comments: true
 categories:
 - how-to

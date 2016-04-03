@@ -2,7 +2,7 @@
 layout: post
 title: Whatsapp introduced new Emojis on latest version
 date: '2016-02-06T12:35:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 comments: true
 categories:
 - Whatsapp

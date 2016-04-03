@@ -2,7 +2,7 @@
 layout: post
 title: 'Airtel 3G Proxy Trick - New Year Special For All - Working All Over India '
 date: '2014-01-06T22:15:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - free-internet
 tags:

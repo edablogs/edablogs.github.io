@@ -2,7 +2,7 @@
 layout: post
 title: List of working Xposed modules for Asus Zenfone Lollipop
 date: '2015-06-20T18:38:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - asus

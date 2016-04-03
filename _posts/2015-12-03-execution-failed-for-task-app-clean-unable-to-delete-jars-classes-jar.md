@@ -2,7 +2,7 @@
 layout: post
 title: Execution failed for task ':app:clean' unable to delete jars\classes.jar
 date: '2015-12-03T01:45:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - Android-Studio
 - android

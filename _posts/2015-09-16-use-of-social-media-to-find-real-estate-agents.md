@@ -2,7 +2,7 @@
 layout: post
 title: Use of Social Media to Find Real Estate Agents
 date: '2015-09-16T17:22:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - Blog
 description: how to use social media to find real estate agents online to grow up your business,earn money from social media by growing your clients

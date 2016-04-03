@@ -2,7 +2,7 @@
 layout: post
 title: Generate facebook smiley code from image
 date: '2013-03-16T15:07:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - facebook
 tags:

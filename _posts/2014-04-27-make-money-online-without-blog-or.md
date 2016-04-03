@@ -2,7 +2,7 @@
 layout: post
 title: make money online without blog or website
 date: '2014-04-27T09:46:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - earn-money
 tags:

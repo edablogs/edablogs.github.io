@@ -2,7 +2,7 @@
 layout: post
 title: Material Design floating button for website
 date: '2015-07-06T19:04:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - blog
 tags:

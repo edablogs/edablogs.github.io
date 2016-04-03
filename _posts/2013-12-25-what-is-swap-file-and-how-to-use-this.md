@@ -2,7 +2,7 @@
 layout: post
 title: What is swap file and how to use this to increase RAM
 date: '2013-12-25T01:44:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - tutorial
 - root

@@ -2,7 +2,7 @@
 layout: post
 title: 'How to change windows update setting in windows Technical preview '
 date: '2014-10-21T12:58:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - computer
 tags:

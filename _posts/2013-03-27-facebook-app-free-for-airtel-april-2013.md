@@ -2,7 +2,7 @@
 layout: post
 title: Facebook app free for airtel April 2013
 date: '2013-03-27T11:09:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - facebook
 tags:

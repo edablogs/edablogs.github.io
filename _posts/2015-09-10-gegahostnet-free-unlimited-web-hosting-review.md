@@ -2,7 +2,7 @@
 layout: post
 title: Gegahost.net free unlimited web hosting Review
 date: '2015-09-10T23:25:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - free-hosting
 description: drawback of gegahost unlimited web hosting account,disadvantages of gegahost unlimited web hosting account. personal review about unlimited web hosting

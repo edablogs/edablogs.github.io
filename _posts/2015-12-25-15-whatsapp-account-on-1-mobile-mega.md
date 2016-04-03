@@ -2,7 +2,7 @@
 layout: post
 title: Use 15 whatsapp account on 1 mobile Mega trick
 date: '2015-12-25T23:50:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - Whatsapp
 description: use 15 whatsapp account on 1 mobile at same time using multiple variants of whatsapp,multiple whatsapp account on 1 mobile, no need to uninstall official whatsapp.

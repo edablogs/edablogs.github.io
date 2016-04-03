@@ -2,7 +2,7 @@
 layout: post
 title: How to make full backup of asus zenfone 5
 date: '2015-06-27T10:34:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - asus
 - zenfone-5

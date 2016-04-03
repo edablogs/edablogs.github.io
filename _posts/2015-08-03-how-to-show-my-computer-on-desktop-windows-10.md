@@ -2,7 +2,7 @@
 layout: post
 title: how to show my computer on desktop windows 10
 date: '2015-08-03T00:53:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - windows
 tags:

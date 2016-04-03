@@ -2,7 +2,7 @@
 layout: post
 title: Modded gravity box for zenfone mobiles
 date: '2015-04-09T03:42:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - asus
 - zenfone-5

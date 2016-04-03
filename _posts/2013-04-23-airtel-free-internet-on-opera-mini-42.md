@@ -2,7 +2,7 @@
 layout: post
 title: Airtel free internet on opera mini 4.2 may
 date: '2013-04-23T18:43:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - free-internet
 tags:

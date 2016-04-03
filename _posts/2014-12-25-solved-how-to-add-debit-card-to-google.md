@@ -2,7 +2,7 @@
 layout: post
 title: "[solved] How to add debit card to Google Wallet"
 date: '2014-12-25T01:20:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 tags:

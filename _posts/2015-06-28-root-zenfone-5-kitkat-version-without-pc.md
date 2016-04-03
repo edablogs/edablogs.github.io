@@ -2,7 +2,7 @@
 layout: post
 title: Root zenfone 5 Kitkat version without PC
 date: '2015-06-28T21:37:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - asus
 - zenfone-5

@@ -2,7 +2,7 @@
 layout: post
 title: Top ways to earn money online easily
 date: '2014-01-06T00:35:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - earn-money
 tags:

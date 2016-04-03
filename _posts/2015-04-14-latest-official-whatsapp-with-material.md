@@ -2,7 +2,7 @@
 layout: post
 title: Latest official Whatsapp with material design
 date: '2015-04-14T19:18:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - whatsapp

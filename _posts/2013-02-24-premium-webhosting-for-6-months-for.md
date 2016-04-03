@@ -2,7 +2,7 @@
 layout: post
 title: Premium webhosting for 6 months for free with full access
 date: '2013-02-24T17:33:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - free-hosting
 tags:

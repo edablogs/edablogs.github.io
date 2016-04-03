@@ -2,7 +2,7 @@
 layout: post
 title: Internet Download Manager latest full version
 date: '2015-08-05T15:15:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - windows
 tags:

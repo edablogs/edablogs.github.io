@@ -2,7 +2,7 @@
 layout: post
 title: 5 best free apps for android 2015
 date: '2014-12-23T22:15:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 tags:

@@ -2,7 +2,7 @@
 layout: post
 title: 'android adb drivers for micromax official '
 date: '2013-08-15T14:09:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - drivers
 tags:

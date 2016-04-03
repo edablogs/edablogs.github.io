@@ -2,7 +2,7 @@
 layout: post
 title: CM 12 theme engine fix for asus zenfone 5
 date: '2015-07-13T11:03:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - asus
 - zenfone-5

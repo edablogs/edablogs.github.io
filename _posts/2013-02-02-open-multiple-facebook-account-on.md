@@ -2,7 +2,7 @@
 layout: post
 title: Open multiple facebook account on firefox
 date: '2013-02-02T09:49:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - facebook
 tags:

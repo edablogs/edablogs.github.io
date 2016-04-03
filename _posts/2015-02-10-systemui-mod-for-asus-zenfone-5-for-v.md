@@ -2,7 +2,7 @@
 layout: post
 title: SystemUI mod for asus zenfone 5 for v 2.21.40.44
 date: '2015-02-10T01:37:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - asus

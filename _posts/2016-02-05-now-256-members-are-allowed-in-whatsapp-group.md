@@ -2,7 +2,7 @@
 layout: post
 title: Now 256 members are allowed in whatsapp group
 date: '2016-02-05T11:28:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 comments: true
 categories:
 - Whatsapp

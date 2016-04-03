@@ -2,7 +2,7 @@
 layout: post
 title: Sound patch for Double remix rom 7.2.2 zenfone 5
 date: '2016-01-06T00:06:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - cm-12
 - Asus

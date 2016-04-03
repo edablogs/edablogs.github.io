@@ -2,7 +2,7 @@
 layout: post
 title: 'Flash tool for all android device Download '
 date: '2013-08-28T16:32:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - flash-tools
 tags:

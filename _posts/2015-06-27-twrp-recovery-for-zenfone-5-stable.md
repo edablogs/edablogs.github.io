@@ -2,7 +2,7 @@
 layout: post
 title: TWRP Recovery for Zenfone 5 Stable version
 date: '2015-06-27T10:14:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - asus
 - zenfone-5

@@ -2,7 +2,7 @@
 layout: post
 title: free recharge on all network 100% working
 date: '2013-02-19T06:18:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - earn-money
 tags:

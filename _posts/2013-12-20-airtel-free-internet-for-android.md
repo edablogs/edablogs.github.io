@@ -2,7 +2,7 @@
 layout: post
 title: 'Airtel free internet for Android Mobiles 2014 trick '
 date: '2013-12-20T22:56:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - free-internet
 tags:

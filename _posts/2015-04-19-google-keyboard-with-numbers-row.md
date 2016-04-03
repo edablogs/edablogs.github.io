@@ -2,7 +2,7 @@
 layout: post
 title: Google keyboard with numbers row
 date: '2015-04-19T13:51:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 tags:

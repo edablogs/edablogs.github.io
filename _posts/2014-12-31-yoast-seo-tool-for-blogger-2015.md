@@ -2,7 +2,7 @@
 layout: post
 title: Yoast SEO tool for blogger 2015
 date: '2014-12-31T21:05:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - blogger
 - seo

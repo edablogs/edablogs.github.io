@@ -2,7 +2,7 @@
 layout: post
 title: Facebook New smiley codes
 date: '2013-01-18T19:07:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - facebook
 tags:

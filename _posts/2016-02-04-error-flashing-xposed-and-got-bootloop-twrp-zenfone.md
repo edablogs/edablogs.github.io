@@ -2,7 +2,7 @@
 layout: post
 title: Error flashing Xposed and got Bootloop TWRP Zenfone
 date: '2016-02-04T14:45:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - asus
 - zenfone-5

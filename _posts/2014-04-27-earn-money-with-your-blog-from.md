@@ -2,7 +2,7 @@
 layout: post
 title: Earn money with your blog from AFFILIATE MARKETING AND PAY PER CLICK
 date: '2014-04-27T10:08:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 tags:
 - Earn Money
 modified_time: '2016-02-20T06:51:59.249+05:30'

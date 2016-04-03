@@ -2,7 +2,7 @@
 layout: post
 title: Remove ads from apps in Android mobile and tablet
 date: '2013-12-18T22:59:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - tutorial
 tags:

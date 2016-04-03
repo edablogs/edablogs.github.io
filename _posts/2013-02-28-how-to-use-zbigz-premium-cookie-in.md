@@ -2,7 +2,7 @@
 layout: post
 title: How to use zbigz premium cookie in mozilla firefox
 date: '2013-02-28T21:32:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - zbigz
 tags:

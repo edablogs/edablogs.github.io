@@ -2,7 +2,7 @@
 layout: post
 title: mx player pro for Asus Zenfone Lollipop
 date: '2015-07-28T18:33:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - asus

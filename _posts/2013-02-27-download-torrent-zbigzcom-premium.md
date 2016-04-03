@@ -2,7 +2,7 @@
 layout: post
 title: download torrent zbigz.com premium account hack
 date: '2013-02-27T00:28:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - zbigz
 tags:

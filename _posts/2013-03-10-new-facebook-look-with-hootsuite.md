@@ -2,7 +2,7 @@
 layout: post
 title: New facebook look with hootsuite
 date: '2013-03-10T18:13:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - facebook
 tags:

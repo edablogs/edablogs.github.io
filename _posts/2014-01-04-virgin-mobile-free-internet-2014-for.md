@@ -2,7 +2,7 @@
 layout: post
 title: 'Virgin mobile free internet 2014 for life time '
 date: '2014-01-04T11:32:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - free-internet
 tags:

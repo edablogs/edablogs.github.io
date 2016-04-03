@@ -2,7 +2,7 @@
 layout: post
 title: 5 best shooting games under 200Mb Android
 date: '2015-07-19T14:33:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - android-games

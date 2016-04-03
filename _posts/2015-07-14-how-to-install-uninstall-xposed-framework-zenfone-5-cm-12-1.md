@@ -2,7 +2,7 @@
 layout: post
 title: 'How To Install/Uninstall Xposed Framework on Asus Zenfone 5 (CM12.1) '
 date: '2015-07-14T02:25:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - asus
 - zenfone-5

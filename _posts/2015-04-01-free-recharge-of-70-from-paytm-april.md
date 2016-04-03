@@ -2,7 +2,7 @@
 layout: post
 title: free recharge of 70 from paytm april 2015
 date: '2015-04-01T00:25:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - free-recharge
 tags:

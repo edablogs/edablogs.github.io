@@ -2,7 +2,7 @@
 layout: post
 title: How to unlock password protected zip files
 date: '2015-04-04T06:00:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - linux
 tags:

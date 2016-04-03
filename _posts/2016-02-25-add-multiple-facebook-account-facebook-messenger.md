@@ -2,7 +2,7 @@
 layout: post
 title: Add multiple facebook account in facebook messenger
 date: '2016-02-25T12:53:00.001+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 comments: true
 categories:
 - facebook

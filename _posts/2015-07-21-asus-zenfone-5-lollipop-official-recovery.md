@@ -2,7 +2,7 @@
 layout: post
 title: Asus Zenfone 5 Lollipop official recovery.img
 date: '2015-07-21T18:38:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - asus
 - zenfone-5

@@ -2,7 +2,7 @@
 layout: post
 title: free domain .com for 1 year with hosting bigrocks
 date: '2014-12-18T03:23:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - free-domain
 tags:

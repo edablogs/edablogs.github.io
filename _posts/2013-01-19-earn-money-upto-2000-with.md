@@ -2,7 +2,7 @@
 layout: post
 title: Earn money upto 2000$ with 6dollerclick.com
 date: '2013-01-19T00:45:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - earn-money
 tags:

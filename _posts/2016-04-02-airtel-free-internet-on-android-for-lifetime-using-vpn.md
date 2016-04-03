@@ -2,7 +2,7 @@
 layout: post
 title: Airtel free internet on android for lifetime using VPN
 date: '2016-04-02T19:08:00.002+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - free-internet
 tags:

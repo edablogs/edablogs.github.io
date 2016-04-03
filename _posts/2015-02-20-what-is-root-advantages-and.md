@@ -2,7 +2,7 @@
 layout: post
 title: What is Root, Advantages and Disadvantages of Root
 date: '2015-02-20T03:43:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - root

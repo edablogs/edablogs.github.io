@@ -2,7 +2,7 @@
 layout: post
 title: Share links from PC to mobile using QR Code
 date: '2015-06-22T16:34:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - computer
 - android

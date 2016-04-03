@@ -2,7 +2,7 @@
 layout: post
 title: How to unlock Bootloader Zenfone Selfie Lollipop
 date: '2016-03-01T17:09:00.002+05:30'
-author: Eda Blogs
+author: edablogs
 comments: true
 categories:
 - asus

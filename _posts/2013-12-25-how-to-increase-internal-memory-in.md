@@ -2,7 +2,7 @@
 layout: post
 title: How to increase internal memory in android mobile and tablet
 date: '2013-12-25T01:54:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - tutorial
 - root

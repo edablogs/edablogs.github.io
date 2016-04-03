@@ -2,7 +2,7 @@
 layout: post
 title: 'imei writing tool for your android mobile '
 date: '2013-08-15T17:16:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - imei-tool
 - tutorial

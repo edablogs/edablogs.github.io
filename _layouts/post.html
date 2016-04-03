@@ -2,8 +2,10 @@
 layout: default
 comments: yes
 ---
-
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+{% if page.author %}
+{% assign author = site.authors[page.author] %}
+{% endif %}
+<article class="post" itemprop='blogPost' itemscope='itemscope' itemtype='https://schema.org/BlogPosting'>
 {% include breadcrumbs.html %}
   <header class="post-header">
 	{% for categorylist in page.categories %}
@@ -12,7 +14,11 @@ comments: yes
       </div>
 	{% endfor %}
 	  <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-	  <p class="post-date"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+	  <p class="post-date"><time datetime="{{ page.modified_time | date_to_xmlschema }}" itemprop="dateModified">{{ page.modified_time | date: "%b %-d, %Y" }}</time> | <span >
+		<span>{{ author.name }}</span></span>
+		
+		</p><div class='datepost' itemprop='datePublished' style='display:none'>{{ page.date | date: "%b %-d, %Y" }}</div>
+	  <meta property="image" content="{{ page.thumbnail }}" />
 	  
 	  </header>
 	  <div class="post-content" itemprop="articleBody">
@@ -36,6 +42,7 @@ comments: yes
 			{% endfor %}
 		</div>
 	{% include share-pages.html %}
+	{% include author-info.html %}
 </article>
 
 <div class="related">

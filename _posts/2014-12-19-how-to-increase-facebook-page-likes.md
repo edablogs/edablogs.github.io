@@ -2,7 +2,7 @@
 layout: post
 title: How to increase facebook page likes genuine using script
 date: '2014-12-19T22:07:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - facebook
 tags:

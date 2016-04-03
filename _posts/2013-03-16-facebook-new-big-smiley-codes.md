@@ -2,7 +2,7 @@
 layout: post
 title: Facebook new Big smiley codes
 date: '2013-03-16T14:51:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - facebook
 tags:

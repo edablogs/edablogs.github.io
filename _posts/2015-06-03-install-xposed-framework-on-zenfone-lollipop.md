@@ -2,7 +2,7 @@
 layout: post
 title: Install Xposed framework on Zenfone Lollipop (Updated)
 date: '2015-06-03T10:26:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - zenfone

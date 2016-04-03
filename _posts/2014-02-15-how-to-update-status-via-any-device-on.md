@@ -2,7 +2,7 @@
 layout: post
 title: How to update status via any device on facebook
 date: '2014-02-15T10:15:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - how-to
 tags:

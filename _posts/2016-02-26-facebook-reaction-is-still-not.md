@@ -2,7 +2,7 @@
 layout: post
 title: Facebook Reaction is still not available for old Facebook accounts
 date: '2016-02-26T07:57:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 comments: true
 categories:
 - facebook

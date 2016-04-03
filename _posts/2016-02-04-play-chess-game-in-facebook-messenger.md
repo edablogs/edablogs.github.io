@@ -2,7 +2,7 @@
 layout: post
 title: Play Chess game in Facebook Messenger or Facebook web
 date: '2016-02-04T12:50:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - facebook
 description: play game in facebook messenger,checss game on facebook messenger to play with friends, easy way to play games on facebook messenger without any game installed

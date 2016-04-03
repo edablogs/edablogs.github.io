@@ -2,7 +2,7 @@
 layout: post
 title: Get paid $0.10 per click by sharing link from your blog or social network site
 date: '2014-10-17T15:30:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - earn-money
 tags:

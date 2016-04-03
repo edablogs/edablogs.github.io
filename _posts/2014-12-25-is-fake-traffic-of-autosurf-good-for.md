@@ -2,7 +2,7 @@
 layout: post
 title: Is fake traffic of Autosurf good for website or not ?
 date: '2014-12-25T18:24:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - blog
 tags:

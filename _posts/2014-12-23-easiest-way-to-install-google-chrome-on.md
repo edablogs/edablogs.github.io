@@ -2,7 +2,7 @@
 layout: post
 title: Easiest way to install Google chrome on ubuntu 14.04,14.10,13
 date: '2014-12-23T00:29:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - computer
 tags:

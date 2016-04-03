@@ -2,7 +2,7 @@
 layout: post
 title: NTFS support in Asus and other Lollipop Devices
 date: '2015-09-12T16:23:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - asus
 - Lollipop

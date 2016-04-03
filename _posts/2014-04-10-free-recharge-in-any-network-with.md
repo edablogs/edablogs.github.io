@@ -2,7 +2,7 @@
 layout: post
 title: Free recharge in any network with Ladooo android App
 date: '2014-04-10T00:04:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - how-to
 tags:

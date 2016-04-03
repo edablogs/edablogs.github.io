@@ -2,7 +2,7 @@
 layout: post
 title: Asus file manager beta version download
 date: '2015-08-05T17:24:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - asus
 tags:

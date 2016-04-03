@@ -2,7 +2,7 @@
 layout: post
 title: Convert your browser into notepad
 date: '2013-02-06T18:34:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - amazing-tricks
 tags:

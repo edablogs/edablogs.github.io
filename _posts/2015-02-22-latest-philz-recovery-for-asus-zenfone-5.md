@@ -2,7 +2,7 @@
 layout: post
 title: Latest philZ recovery for Asus zenfone 5
 date: '2015-02-22T21:57:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - asus

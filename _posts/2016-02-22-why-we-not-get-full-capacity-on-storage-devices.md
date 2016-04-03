@@ -2,7 +2,7 @@
 layout: post
 title: why we not get full capacity on storage devices?
 date: '2016-02-22T23:34:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 comments: true
 categories:
 - how-to

@@ -2,7 +2,7 @@
 layout: post
 title: Enable init.d support on any Android Mobile
 date: '2015-04-14T02:37:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - root

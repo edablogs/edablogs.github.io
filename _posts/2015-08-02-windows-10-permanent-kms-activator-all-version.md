@@ -2,7 +2,7 @@
 layout: post
 title: Windows 10 permanent kms activator all version
 date: '2015-08-02T09:30:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - windows
 tags:

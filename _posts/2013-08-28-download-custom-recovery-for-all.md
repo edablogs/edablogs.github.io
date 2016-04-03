@@ -2,7 +2,7 @@
 layout: post
 title: 'Download Custom recovery for all Android mobile '
 date: '2013-08-28T16:54:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - custom-recovery
 tags:

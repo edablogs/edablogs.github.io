@@ -2,7 +2,7 @@
 layout: post
 title: Airtel 2G-3G free net on PC February 2013 updated
 date: '2013-02-19T22:13:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 tags:
 - free internet
 modified_time: '2016-02-20T06:52:17.828+05:30'

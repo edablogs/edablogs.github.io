@@ -2,7 +2,7 @@
 layout: post
 title: Revert back to RR kernel after X Anwar's kernel Zenfone 5 RR
 date: '2015-10-21T10:12:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - cm12
 - Asus

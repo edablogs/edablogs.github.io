@@ -2,7 +2,7 @@
 layout: post
 title: Material touch for Asus zenfone 5 UI v2.21.40.44
 date: '2015-03-08T04:22:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - asus

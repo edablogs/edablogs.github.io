@@ -2,7 +2,7 @@
 layout: post
 title: adb over wifi without usb
 date: '2015-04-02T01:41:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - computer
 tags:

@@ -2,7 +2,7 @@
 layout: post
 title: How to recover deleted whatsapp messages
 date: '2014-02-19T19:18:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - how-to
 tags:

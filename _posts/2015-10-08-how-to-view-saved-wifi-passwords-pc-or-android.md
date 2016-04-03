@@ -2,7 +2,7 @@
 layout: post
 title: How to view saved WiFi passwords PC or Android
 date: '2015-10-08T13:30:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - windows
 - android

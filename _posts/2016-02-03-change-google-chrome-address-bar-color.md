@@ -2,7 +2,7 @@
 layout: post
 title: Change google chrome address bar color from your website
 date: '2016-02-03T18:32:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - how-to
 description: change google chrome header and address bar color from your website, add theme option in your website to change google chrome address bar and header color.

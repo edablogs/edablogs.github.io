@@ -2,7 +2,7 @@
 layout: post
 title: download drivers for any unknown device
 date: '2014-04-30T10:49:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - computer
 tags:

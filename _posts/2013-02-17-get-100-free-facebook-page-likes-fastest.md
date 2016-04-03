@@ -2,7 +2,7 @@
 layout: post
 title: Get 100% free facebook page likes fastest
 date: '2013-02-17T17:05:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - facebook
 tags:

@@ -2,7 +2,7 @@
 layout: post
 title: Hide last seen, Blue tick and Double tick whatsapp+ 6.66
 date: '2014-12-23T15:59:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - whatsapp

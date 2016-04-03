@@ -2,7 +2,7 @@
 layout: post
 title: Autolike all status/comments on facebook
 date: '2013-03-16T15:38:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - facebook
 tags:

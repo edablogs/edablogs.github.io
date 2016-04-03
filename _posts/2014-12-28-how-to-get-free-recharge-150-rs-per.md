@@ -2,7 +2,7 @@
 layout: post
 title: how to get free recharge 150 rs per month
 date: '2014-12-28T23:24:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 tags:

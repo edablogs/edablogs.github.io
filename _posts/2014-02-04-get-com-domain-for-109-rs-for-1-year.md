@@ -2,7 +2,7 @@
 layout: post
 title: get .com domain for 109 rs for 1 year from godaddy free
 date: '2014-02-04T00:30:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - domain
 tags:

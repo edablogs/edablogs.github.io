@@ -2,7 +2,7 @@
 layout: post
 title: 'Earn money online with your skills '
 date: '2014-01-12T01:31:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - earn-money
 tags:

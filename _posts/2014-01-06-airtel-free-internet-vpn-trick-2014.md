@@ -2,7 +2,7 @@
 layout: post
 title: 'Airtel free internet VPN trick 2014 working '
 date: '2014-01-06T21:48:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - free-internet
 tags:

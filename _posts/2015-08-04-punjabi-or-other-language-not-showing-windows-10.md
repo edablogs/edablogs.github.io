@@ -2,7 +2,7 @@
 layout: post
 title: Punjabi or other language not showing Windows 10
 date: '2015-08-04T09:08:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - windows
 tags:

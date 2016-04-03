@@ -2,7 +2,7 @@
 layout: post
 title: How to limit internet data usage to specific apps
 date: '2015-05-12T00:41:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 tags:

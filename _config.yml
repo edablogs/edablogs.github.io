@@ -19,6 +19,31 @@ author:
   url:               https://twitter.com/pawneshwer
   email:             pawneshwergupta@gmail.com
 
+authors: 
+  pawneshwer: 
+    name: Pawneshwer Gupta
+    position: Software Developer and Web Developer
+    avatar: /assets/users/pawneshwer/photo.jpg
+    web: http://edablogs.com
+    github: edablogs
+    twitter: https://twitter.com/pawneshwer
+    pinterest: https://www.pinterest.com/xdablogs/
+    facebook: https://www.facebook.com/pawneshwerr.gupta
+    google: https://plus.google.com/116495809884069789298
+    about: |    
+         I am Software developer and web developer and also part time blogger.
+  edablogs:
+    name: EDA Blogs
+    position: Software Developer and Web Developer
+    avatar: /assets/users/edablogs/photo.jpg
+    web: http://edablogs.com
+    github: edablogs
+    pinterest: https://www.pinterest.com/xdablogs/
+    facebook: https://www.facebook.com/XDAblogsOfficial
+    google: https://plus.google.com/+XDAblogss
+    twitter: https://twitter.com/XDABlogs
+    about: |    
+         I am Software developer and web developer and also part time blogger.
 logo: 'assets/logo.png'
 
   

@@ -2,7 +2,7 @@
 layout: post
 title: Pixel Master patch for CM 12.1 rom asus Zenfone 5
 date: '2015-07-14T09:39:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - asus
 - zenfone-5

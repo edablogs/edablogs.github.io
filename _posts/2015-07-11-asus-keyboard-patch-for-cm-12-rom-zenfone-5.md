@@ -2,7 +2,7 @@
 layout: post
 title: Asus Keyboard patch for CM 12.1 ROM Zenfone 5 (Updated)
 date: '2015-07-11T23:58:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - asus
 - zenfone-5

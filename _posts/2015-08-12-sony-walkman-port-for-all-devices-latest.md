@@ -2,7 +2,7 @@
 layout: post
 title: Sony Walkman port for all Devices Latest
 date: '2015-08-12T09:15:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 tags:

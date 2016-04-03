@@ -2,7 +2,7 @@
 layout: post
 title: Minimize apps in Nokia s40 Mobiles
 date: '2013-02-21T02:42:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - nokia
 tags:

@@ -2,7 +2,7 @@
 layout: post
 title: 'Make your own cheap macro camera at home '
 date: '2013-12-14T10:41:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - tutorial
 tags:

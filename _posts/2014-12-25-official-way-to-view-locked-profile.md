@@ -2,7 +2,7 @@
 layout: post
 title: Official way to view locked profile picture on Facebook mobile or pc
 date: '2014-12-25T20:35:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - facebook
 tags:

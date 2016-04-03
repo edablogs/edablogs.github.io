@@ -2,7 +2,7 @@
 layout: post
 title: 'Use PC internet in mobile with USB Reverse tethering '
 date: '2013-12-24T07:11:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - root
 tags:

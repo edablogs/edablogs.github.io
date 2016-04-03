@@ -2,7 +2,7 @@
 layout: post
 title: Zenfone 5 Kitkat/Lollipop Fastboot.img flashable
 date: '2015-07-25T14:32:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - asus
 - zenfone-5

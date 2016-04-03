@@ -2,7 +2,7 @@
 layout: post
 title: Easy ways to make money online with Libertagia
 date: '2014-12-16T19:36:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - earn-money
 tags:

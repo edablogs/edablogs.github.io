@@ -2,7 +2,7 @@
 layout: post
 title: Install Xposed framework Asus Zenfone Lollipop
 date: '2016-02-03T15:07:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - xpose
 - asus

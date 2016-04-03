@@ -2,7 +2,7 @@
 layout: post
 title: CM 13 launcher (Trebuchet) for Lollipop 5.0 and up version
 date: '2016-01-19T11:51:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - cm-13
 description: CM 13 stock launcher trebuchet for any mobile without root.CM 13 launcher for Lollipop rom

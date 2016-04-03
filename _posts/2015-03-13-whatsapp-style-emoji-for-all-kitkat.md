@@ -2,7 +2,7 @@
 layout: post
 title: Whatsapp style Emoji for all Kitkat mobiles and tablet
 date: '2015-03-13T00:58:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - root

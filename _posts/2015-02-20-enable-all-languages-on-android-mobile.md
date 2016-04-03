@@ -2,7 +2,7 @@
 layout: post
 title: Enable all languages on Android mobile
 date: '2015-02-20T03:36:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - root

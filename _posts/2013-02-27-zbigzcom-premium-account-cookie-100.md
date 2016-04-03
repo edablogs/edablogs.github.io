@@ -2,7 +2,7 @@
 layout: post
 title: zbigz.com premium account cookie 100% working (Daily Updating)
 date: '2013-02-27T00:57:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - zbigz
 tags:

@@ -2,7 +2,7 @@
 layout: post
 title: Adobe Photoshop cc 2015 keygen offline activation
 date: '2015-08-22T08:35:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - Windows
 description: download adobe photoshop cc 2015 full version with keygen, offline installer and offline activation.adobe photoshop license key, official serial key

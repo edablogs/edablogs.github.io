@@ -2,7 +2,7 @@
 layout: post
 title: Xperia keyboard v6.7.A.0.92 for Zenfone or x86 devices
 date: '2015-11-10T13:26:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - zenfone
 description: xperia keyboard v6.7.A.0.92 for asus zenfone and other x86 devices, latest xperial keyboard for zenfone mobiles.

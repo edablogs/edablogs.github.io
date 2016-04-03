@@ -2,7 +2,7 @@
 layout: post
 title: Asus Music latest with Color themes Download
 date: '2015-10-01T12:15:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - asus
 - zenfone

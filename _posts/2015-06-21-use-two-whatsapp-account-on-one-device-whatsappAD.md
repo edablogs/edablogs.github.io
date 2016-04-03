@@ -2,7 +2,7 @@
 layout: post
 title: Use two whatsapp account on one device using WhatsappAD
 date: '2015-06-21T22:59:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - whatsapp
 - android

@@ -2,7 +2,7 @@
 layout: post
 title: How to increase RAM in android mobile and tablet
 date: '2013-12-24T16:49:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - tutorial
 - root

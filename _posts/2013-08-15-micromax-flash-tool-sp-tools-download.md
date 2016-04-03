@@ -2,7 +2,7 @@
 layout: post
 title: micromax flash tool (sp tools) download
 date: '2013-08-15T09:50:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - flash-tools
 tags:

@@ -2,7 +2,7 @@
 layout: post
 title: How to change theme in official Whatsapp
 date: '2015-10-02T15:28:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - Whatsapp
 description: change theme in official whatsapp, whatsapp theme engine pro 4.1 cracked latest download,fully customize whatsapp easy method, safely customize whatsapp

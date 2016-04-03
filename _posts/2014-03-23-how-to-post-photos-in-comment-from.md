@@ -2,7 +2,7 @@
 layout: post
 title: How to post photos in comment from facebook official app
 date: '2014-03-23T11:51:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - how-to
 tags:

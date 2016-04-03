@@ -2,7 +2,7 @@
 layout: post
 title: 'Download drivers for all ADB devices '
 date: '2013-08-28T16:11:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - drivers
 tags:

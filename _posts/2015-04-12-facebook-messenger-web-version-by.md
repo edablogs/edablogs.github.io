@@ -2,7 +2,7 @@
 layout: post
 title: facebook messenger web version by facebook
 date: '2015-04-12T00:22:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - facebook
 tags:

@@ -2,7 +2,7 @@
 layout: post
 title: How to get free call on Android mobile with TATA DOCOMO GET app
 date: '2014-02-23T15:41:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - how-to
 tags:

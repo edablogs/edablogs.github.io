@@ -2,7 +2,7 @@
 layout: post
 title: 'How to make Look Back video on facebook '
 date: '2014-02-08T20:56:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - how-to
 - facebook

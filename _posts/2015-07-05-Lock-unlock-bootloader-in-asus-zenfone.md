@@ -2,7 +2,7 @@
 layout: post
 title: Lock/unlock bootloader in asus zenfone
 date: '2015-07-05T18:29:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - asus
 - zenfone

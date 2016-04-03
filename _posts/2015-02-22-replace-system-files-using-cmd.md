@@ -2,7 +2,7 @@
 layout: post
 title: Replace system files using CMD unbricking method
 date: '2015-02-22T22:33:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - asus

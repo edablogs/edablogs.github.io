@@ -2,7 +2,7 @@
 layout: post
 title: Use two whatsapp account on Android using Disa
 date: '2015-05-14T09:24:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - whatsapp

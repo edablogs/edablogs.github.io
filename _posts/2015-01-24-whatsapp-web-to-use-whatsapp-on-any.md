@@ -2,7 +2,7 @@
 layout: post
 title: Whatsapp web to use whatsapp on Any browser
 date: '2015-01-24T03:15:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - whatsapp

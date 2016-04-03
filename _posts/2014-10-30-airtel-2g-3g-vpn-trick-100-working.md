@@ -2,7 +2,7 @@
 layout: post
 title: Airtel 2G 3G VPN trick 100% working October 2014 daily update proxy no survey
 date: '2014-10-30T12:01:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - free-internet
 tags:

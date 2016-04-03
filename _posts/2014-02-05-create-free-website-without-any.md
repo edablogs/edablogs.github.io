@@ -2,7 +2,7 @@
 layout: post
 title: Create free website without any knowledge
 date: '2014-02-05T22:19:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - domain
 tags:

@@ -2,7 +2,7 @@
 layout: post
 title: How To Make Card Stack Recent Apps like Android Lollipop
 date: '2015-03-18T00:23:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - root

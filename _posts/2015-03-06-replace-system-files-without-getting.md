@@ -2,7 +2,7 @@
 layout: post
 title: Replace System files without getting force close
 date: '2015-03-06T00:32:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 categories:
 - android
 - asus
