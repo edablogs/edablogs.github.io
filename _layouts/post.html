@@ -5,7 +5,7 @@ comments: yes
 {% if page.author %}
 {% assign author = site.authors[page.author] %}
 {% endif %}
-<article class="post" itemprop='blogPost' itemscope='itemscope' itemtype='https://schema.org/BlogPosting'>
+<article class="post">
 {% include breadcrumbs.html %}
   <header class="post-header">
 	{% for categorylist in page.categories %}
@@ -13,16 +13,14 @@ comments: yes
         <a href="/{{ categorylist }}">{{ categorylist | replace:'-',' ' }}</a>
       </div>
 	{% endfor %}
-	  <h1 class="post-title" itemprop="name headline"><a href="{{ page.url }}" itemprop='url'>{{ page.title }}</a></h1>
-	  <p class="post-date"><time datetime="{{ page.modified_time | date_to_xmlschema }}" itemprop="dateModified">{{ page.modified_time | date: "%b %-d, %Y" }}</time> | <span >
+	  <h1 class="post-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+	  <p class="post-date"><time datetime="{{ page.modified_time | date_to_xmlschema }}">{{ page.modified_time | date: "%b %-d, %Y" }}</time> | <span >
 		<span>{{ author.name }}</span></span>
 		
-		</p><div class='datepost' itemprop='datePublished' style='display:none'>{{ page.date | date: "%b %-d, %Y" }}</div>
-	  <meta content="{{ site.url }}{{ page.thumbnail }}" itemprop='image' />
+		</p>
 	  
 	  </header>
-	  <div itemprop="description" style="display:none;">{{ page.description }}</div>
-	  <div class="post-content" itemprop="articleBody">
+	  <div class="post-content">
 			{{ content }}
 			<center>
 				<!-- new sidebar -->

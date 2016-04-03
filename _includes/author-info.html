@@ -2,15 +2,13 @@
 {% assign author = site.authors[page.author] %}
 {% endif %}
 
-<div class="author-profile" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person">
-<img alt="{{ author.name}} author at {{ site.title }}" itemprop="image" src="{{ author.avatar }}" width="90px">
+<div class="author-profile">
+<img alt="{{ author.name}} author at {{ site.title }}" src="{{ author.avatar }}" width="90px">
 <div>
-<a class="g-profile" href="{{ author.google }}" itemprop="url" rel="author" title="{{ author.name }} profile" data-gapiscan="true" data-onload="true" data-gapiattached="true">
-<span itemprop="name">{{ author.name }}</span>
+<a class="g-profile" href="{{ author.google }}" rel="author" title="{{ author.name }} profile" data-gapiscan="true" data-onload="true" data-gapiattached="true">
+<span>{{ author.name }}</span>
 </a>
 </div>
-<span itemprop="description">
-</span>
 <div class="icons">
     <a class="twitter" href="{{ author.twitter }}"></a>
     <a class="pinterest" href="{{ author.pinterest }}"></a>

@@ -2,6 +2,10 @@
   {% assign seo_homepage_or_about = true %}
 {% endif %}
 
+{% if page.author %}
+{% assign author = site.authors[page.author] %}
+{% endif %}
+
 {% if site.url %}
   {% assign seo_url = site.url | append: site.baseurl %}
 {% endif %}
@@ -146,3 +150,66 @@
   <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
 {% endif %}
 
+<script type="application/ld+json">
+  {% if seo_homepage_or_about %}
+  
+  {% else %}
+    {
+    "@context": "http://schema.org",
+    "@type": "TechArticle",
+    "url": {{ page.url | prepend: seo_url | replace:'/index.html','/' | jsonify }},
+    "name": "{{ page.title }}",
+    "description": "{{ seo_description }}",
+    "mainEntityOfPage": {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "@id": {{ page.url | prepend: seo_url | replace:'/index.html','/' | jsonify }}
+    },
+    "headline": "{{ page.title }}",
+    "datepublished": "{{ page.date }}",
+    "datemodified": "{{ page.modified_time }}",
+    "inLanguage": "en_US",
+    "publisher": {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "{{ site.url }}",
+        "name": "{{ site.title }}",
+        "description": "{{ site.description }}",
+        "logo": {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "url": "{{ site.url }}/{{ site.logo }}",
+            "width": 257,
+            "height": 150
+        }
+    },
+    "author": [
+        {
+            "@context": "http://schema.org",
+            "@type": "Person",
+            "url": "{{ author.web }}",
+            "name": "{{ author.name }}",
+            "description": "{{ author.about }}",
+            "image": [
+                {
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject",
+                    "url": "{{ site.url }}{{ author.avatar }}",
+                    "width": 512,
+                    "height": 512
+                }
+            ]
+        }
+    ],
+    "image": [
+        {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "url": "{{ site.url }}{{ page.thumbnail }}",
+            "width": 500,
+            "height": 500
+        }
+    ]
+}
+  {% endif %}
+</script>
