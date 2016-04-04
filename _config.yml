@@ -60,6 +60,8 @@ permalink: /:categories/:title
 
 rouge: true
 
+popular_posts_count: 5
+
 # Build settings
 markdown: kramdown
 
@@ -68,3 +70,4 @@ include: ['.htaccess']
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap
+  - octopress-popular-posts
