@@ -12,7 +12,7 @@ title : JSON
       "url": "{{ site.url }}{{ post.url }}",
       "title": "{{ post.title }}",
 	  "thumbnail": "{{ post.thumbnail }}",
-	  "author", : "{{ post.author }}",
+	  "author" : "{{ post.author }}",
       "published_on": "{{ post.date }}",
 	  "modified_on": "{{ post.modified_time }}",
       "content": "{{ post.content | strip_html | strip_newlines }}",
