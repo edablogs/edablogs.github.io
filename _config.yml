@@ -22,31 +22,33 @@ author:
 
 authors: 
   pawneshwer: 
-    name: Pawneshwer Gupta
-    position: Software Developer and Web Developer
-    avatar: /assets/users/pawneshwer/photo.jpg
-    web: http://edablogs.com
-    github: edablogs
-    linkedin: https://www.linkedin.com/in/pawneshwer
-    twitter: https://twitter.com/pawneshwer
-    pinterest: https://www.pinterest.com/xdablogs/
-    facebook: https://www.facebook.com/pawneshwerr.gupta
-    google: https://plus.google.com/116495809884069789298
+    name: "Pawneshwer Gupta"
+    position: "Software Developer and Web Developer"
+    avatar: "/assets/users/pawneshwer/photo.jpg"
+    web: "http://edablogs.com"
+    github: "edablogs"
+    email: "pawneshwergupta@gmail"
+    linkedin: "https://www.linkedin.com/in/pawneshwer"
+    twitter: "https://twitter.com/pawneshwer"
+    pinterest: "https://www.pinterest.com/xdablogs/"
+    facebook: "https://www.facebook.com/pawneshwerr.gupta"
+    google: "https://plus.google.com/116495809884069789298"
     about: |    
-         I am Software developer and web developer and also part time blogger.
+         "I am Software developer and web developer and also part time blogger."
   edablogs:
-    name: EDA Blogs
-    position: Software Developer and Web Developer
-    avatar: /assets/users/edablogs/photo.jpg
-    web: http://edablogs.com
-    github: edablogs
-    pinterest: https://www.pinterest.com/xdablogs/
-    linkedin: https://www.linkedin.com/in/pawneshwer
-    facebook: https://www.facebook.com/XDAblogsOfficial
-    google: https://plus.google.com/+XDAblogss
-    twitter: https://twitter.com/XDABlogs
+    name: "EDA Blogs"
+    position: "Software Developer and Web Developer"
+    avatar: "/assets/users/edablogs/photo.jpg"
+    web: "http://edablogs.com"
+    github: "edablogs"
+    email: "edablogs247@gmail.com"
+    pinterest: "https://www.pinterest.com/xdablogs/"
+    linkedin: "https://www.linkedin.com/in/pawneshwer"
+    facebook: "https://www.facebook.com/XDAblogsOfficial"
+    google: "https://plus.google.com/+XDAblogss"
+    twitter: "https://twitter.com/XDABlogs"
     about: |    
-         I am Software developer and web developer and also part time blogger.
+         "I am Software developer and web developer and also part time blogger."
 logo: 'assets/logo.png'
 
   
@@ -70,4 +72,3 @@ include: ['.htaccess']
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap
-  - octopress-popular-posts
