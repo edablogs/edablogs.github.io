@@ -45,6 +45,13 @@ Host: one.airtel.in
 X-Online-Host: one.airtel.in
 {% endhighlight %}
 
+#### if one.airtel.in not working then use below httpheader
+
+{% highlight ruby %}
+Host: airtellive.com
+X-Online-Host: airtellive.com
+{% endhighlight %}
+
 [![Airtel free internet on android for lifetime using VPN](/res/2016/04/Airtel-free-internet-vpn-trick-2-copy-168x300.png)](/res/2016/04/Airtel-free-internet-vpn-trick-2-copy.png)
 
 *   now go back. and select any _free [server](http://en.wikipedia.org/wiki/Server_%28computing%29 "Server (computing)")_  from top, i will recommend _[Netherland](http://en.wikipedia.org/wiki/Netherland "Netherland")_ server which is faster than other servers
