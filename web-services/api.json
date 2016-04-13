@@ -11,6 +11,7 @@ title : JSON
         "description": "{{ site.tagline }}",
         "author": "{{ site.author.name }}",
         "post": [
+		{% for post in site.posts %}
             {
               "url": "{{ site.url }}{{ post.url }}",
               "title": "{{ post.title }}",
