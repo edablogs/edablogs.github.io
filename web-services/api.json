@@ -9,8 +9,9 @@ title : JSON
         "homepage": "{{ site.url }}",
         "name": "{{ site.title }}",
         "description": "{{ site.tagline }}",
-        "author": "{{ site.author.name }}"{% for post in site.posts %},
+        "author": "{{ site.author.name }}",
         "post": [
+		{% for post in site.posts %}
             {
               "url": "{{ site.url }}{{ post.url }}",
               "title": "{{ post.title }}",
