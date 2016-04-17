@@ -19,7 +19,7 @@ thumbnail: /res/2016/04/cyanogenmod13-logo.jpg
 
 Hello zenfone 5 users there is a good news for you all that unofficial [Android](http://code.google.com/android/ "Android") 6.0 rom is successfully ported for our device. Maybe you all had tried **CM12.1** rom on our **Zenfone 5** rom then you will know how to install **[CM13](http://en.wikipedia.org/wiki/CM_postcode_area "CM postcode area")** rom on **zenfone 5** rom. but if you haven't tried CM based or any other custom rom on **Zenfone 5** then i will teach you how to install this rom.
 
-## Cm13 rom Review in Zenfone 5 :
+## <span style="color: #339966;">Cm13 rom Review in Zenfone 5 :</span>
 
 *   **No Lags :** There is no lag in this cm13 rom, but if you are getting lags then its bootloader unlocking tool's problem. And you will face lags on all custom roms.
 *   **[Battery Backup](http://en.wikipedia.org/wiki/Uninterruptible_power_supply "Uninterruptible power supply")** : Battery backup is same as [CM12.1 rom by Dgadelha](http://edablogs.com/cm12/zenfone-5/cm-121-by-dgadelha-for-zenfone-5-review "CM12.1 rom by dgadelha reviews").
@@ -37,7 +37,7 @@ Hello zenfone 5 users there is a good news for you all that unofficial [Android]
 *   Xposed Framework works fine (Xposed framework is not pre installed, you need to install it)
 *   **Android 6.0's Runtime Permission feature** (this is awesome feature launched by google in android's Marshmallows version, this in feature when you install any app then it will no ask you for permissions, Apps will install without permissions, and when you run that app and it will ask you to allow or deny for permission which are required by that app. which means now app installation is faster than before).
 
-## Bugs with their solutions :
+## <span style="color: #ff0000;">Bugs with their solutions :</span>
 
 *   **[GPS](http://en.wikipedia.org/wiki/Global_Positioning_System "Global Positioning System") not working** : GPS is also not working on any custom rom for zenfone 5, this is known and neglectable .
 
@@ -51,7 +51,7 @@ Hello zenfone 5 users there is a good news for you all that unofficial [Android]
 
 **solution** : Try using [TuneIn](http://www.tunein.com "TuneIn") Radio, a lot of local radios are already there.
 
-## How to install CM13 rom on Asus Zenfone 5 ?
+## <span style="color: #339966;">How to install CM13 rom on Asus Zenfone 5 ?</span>
 
 *   First of all [unlock bootloadter](http://edablogs.com/asus/zenfone/Lock-unlock-bootloader-in-asus-zenfone "Unlock bootloader Asus Zenfone 5") check here.
 *   Install TWRP recovery in you mobile [check here](http://edablogs.com/asus/zenfone-5/twrp-recovery-for-zenfone-5-stable "Install TWRP recovery on Asus Zenfone 5")
@@ -62,8 +62,8 @@ Hello zenfone 5 users there is a good news for you all that unofficial [Android]
 *   then flash Gapps from TWRP.
 *   Now reboot your mobile and done.
 
-## Working Xposed framework for CM13 rom Asus Zenfone 5
+## <span style="color: #339966;">Working Xposed framework for CM13 rom Asus Zenfone 5</span>
 
 [Download Xposed](http://dl.edablogs.com/cm13/x86/xposed-v82-sdk23-x86.zip) 
 
-## ScreenShots : [![CM13 stable rom for Zenfone 5 MarshMallows Reviews]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_5-168x300.png)]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_5.png) [![CM13 stable rom for Zenfone 5 MarshMallows Reviews]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_4-168x300.png)]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_4.png) [![CM13 stable rom for Zenfone 5 MarshMallows Reviews]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_3-168x300.png)]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_3.png) [![CM13 stable rom for Zenfone 5 MarshMallows Reviews]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_2-168x300.png)]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_2.png) [![CM13 stable rom for Zenfone 5 MarshMallows Reviews]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_1-168x300.png)]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_1.png)
+## <span style="color: #339966;">ScreenShots :</span> [![CM13 stable rom for Zenfone 5 MarshMallows Reviews]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_5-168x300.png)]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_5.png) [![CM13 stable rom for Zenfone 5 MarshMallows Reviews]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_4-168x300.png)]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_4.png) [![CM13 stable rom for Zenfone 5 MarshMallows Reviews]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_3-168x300.png)]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_3.png) [![CM13 stable rom for Zenfone 5 MarshMallows Reviews]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_2-168x300.png)]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_2.png) [![CM13 stable rom for Zenfone 5 MarshMallows Reviews]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_1-168x300.png)]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_1.png)
