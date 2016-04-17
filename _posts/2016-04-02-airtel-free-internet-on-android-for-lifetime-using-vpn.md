@@ -18,7 +18,7 @@ thumbnail: /res/2016/04/airtel-free-internet-logo.jpg
 
 **[Airtel](http://www.airtel.com/ "Bharti Airtel") free [internet](http://en.wikipedia.org/wiki/Internet "Internet")** on [android mobile](http://code.google.com/android/ "Android") for lifetime using vpn. By this trick you can use free 2g,3g,4g **internet for lifetime** on your android mobile. also you can use every app not only [opera mini](http://www.opera.com/mobile/ "Opera Mini") or uc browser. in my old posts i had post about _proxy tricks_ but there is limitations in that trick is that only opera handler or uc handler will work and all other apps can nit access free internet. So this is great advantage of [VPN](http://en.wikipedia.org/wiki/Virtual_private_network "Virtual private network") trick that you can enjoy **free internet** on all apps without modification.
 
-[![Airtel free internet on android for lifetime using VPN]({{ site.url }}{{ site.url }}/res/2016/04/airtel-free-internet-logo.jpg)]({{ site.url }}/res/2016/04/airtel-free-internet-logo.jpg)
+[![Airtel free internet on android for lifetime using VPN]({{ site.url }}/res/2016/04/airtel-free-internet-logo.jpg)]({{ site.url }}/res/2016/04/airtel-free-internet-logo.jpg)
 
 this trick will works great on _Unrooted_ and _rooted_ mobile. To protect your sim from blocking don't use morethan 150mb continuously. I will suggest you to use 150mb per day.
 
