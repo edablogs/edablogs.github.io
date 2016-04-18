@@ -23,7 +23,6 @@ Hello zenfone 5 users there is a good news for you all that unofficial [Android]
 
 *   **No Lags :** There is no lag in this cm13 rom, but if you are getting lags then its bootloader unlocking tool's problem. And you will face lags on all custom roms.
 *   **[Battery Backup](http://en.wikipedia.org/wiki/Uninterruptible_power_supply "Uninterruptible power supply")** : Battery backup is same as [CM12.1 rom by Dgadelha](http://edablogs.com/cm12/zenfone-5/cm-121-by-dgadelha-for-zenfone-5-review "CM12.1 rom by dgadelha reviews").
-*   **No Screen autolock issue on 2G data** : this issue was there in RR rom.
 *   **No Freeze after call **(if you faced reboot after call then disable [Double Tap](http://en.wikipedia.org/wiki/Double_Tap_%28film%29 "Double Tap (film)") 2 Wake feature).
 *   **No Reboot after call**. (if you faced reboot after call then disable Double Tap 2 Wake feature).
 *   Stable and Best for daily use.
@@ -46,6 +45,8 @@ Hello zenfone 5 users there is a good news for you all that unofficial [Android]
 *   Video recording in 1080p ([full HD](http://en.wikipedia.org/wiki/1080p "1080p")) lags.
 
 **solution** : Record video in HD mode (720p) mode.
+
+*   **Sometimes Screen autolock issue on 2G data** : this issue was there in RR rom.
 
 *   FM Radio doesn't work : [FM radio](http://en.wikipedia.org/wiki/FM_broadcasting "FM broadcasting") also not working on any other custom roms.
 
