@@ -2,7 +2,7 @@
 layout: page
 title: About EDA Blogs
 date: '2014-12-27T01:52:00.000+05:30'
-author: Pawneshwer Gupta
+author: pawneshwer
 modified_time: '2016-02-20T06:51:04.871+05:30'
 ---
 
