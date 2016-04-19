@@ -39,6 +39,12 @@ input[type="submit"] {
     font-weight: bold;
     text-transform: uppercase;
 }
+table, td, th {
+    border: 1px solid rgba(229, 229, 229, 0);
+}
+tbody tr:nth-child(odd) td {
+    background-color: rgba(249, 249, 249, 0);
+}
 
 </style>
 <div dir="ltr" style="text-align: left;" trbidi="on">
