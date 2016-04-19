@@ -14,7 +14,7 @@ keywords: asus pixel master,asus camera,asus zenfone,zenfone camera update,asus 
 redirect_from:
 - /2016/03/asus-pixelmaster-camera-v20603-apk-download.html
 modified_time: '2016-03-10T13:15:51.035+05:30'
-thumbnail: /res/2016/03/asus-pixelmaster-logo.png
+thumbnail: http://edablogs.com/res/2016/03/asus-pixelmaster-logo.png
 blogger_id: tag:blogger.com,1999:blog-1967791069058877982.post-9126196167659052036
 blogger_orig_url: http://www.edablogs.com/2016/03/asus-pixelmaster-camera-v20603-apk-download.html
 redirect_from:

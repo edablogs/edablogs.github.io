@@ -13,7 +13,7 @@ comments: true
 description: airtel free internet vpn trick,airtel free net for lifetime,airtel free net on android mobile,airtel 3g 4g free internet, free airtel net on facebook,whatsapp
 keywords: airtel free internet vpn trick,airtel free net for lifetime,airtel free net on android mobile,airtel 3g 4g free internet, free airtel net on facebook,whatsapp
 modified_time: '2016-04-02T19:08:00.002+05:30'
-thumbnail: /res/2016/04/airtel-free-internet-logo.jpg
+thumbnail: http://edablogs.com/res/2016/04/airtel-free-internet-logo.jpg
 ---
 
 **[Airtel](http://www.airtel.com/ "Bharti Airtel") free [internet](http://en.wikipedia.org/wiki/Internet "Internet")** on [android mobile](http://code.google.com/android/ "Android") for lifetime using vpn. By this trick you can use free 2g,3g,4g **internet for lifetime** on your android mobile. also you can use every app not only [opera mini](http://www.opera.com/mobile/ "Opera Mini") or uc browser. in my old posts i had post about _proxy tricks_ but there is limitations in that trick is that only opera handler or uc handler will work and all other apps can nit access free internet. So this is great advantage of [VPN](http://en.wikipedia.org/wiki/Virtual_private_network "Virtual private network") trick that you can enjoy **free internet** on all apps without modification.

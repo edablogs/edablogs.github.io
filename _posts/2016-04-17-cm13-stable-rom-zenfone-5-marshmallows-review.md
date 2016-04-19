@@ -14,7 +14,7 @@ comments: true
 description: CM13 rom by dgadelha asus zenfone 5,Android 6.0 for asus zenfone 5,android marshmallow for asus zenfone 5,xposed framework for asus zenfone 5,CM13 rom for zenfone 5
 keywords: asus,zenfone 5,cm 13 rom,custom rom,android 6.0 marshmallows
 modified_time: '2016-04-17T15:18:00.002+05:30'
-thumbnail: /res/2016/04/cyanogenmod13-logo.jpg
+thumbnail: http://edablogs.com/res/2016/04/cyanogenmod13-logo.jpg
 ---
 
 Hello zenfone 5 users there is a good news for you all that unofficial [Android](http://code.google.com/android/ "Android") 6.0 rom is successfully ported for our device. Maybe you all had tried **CM12.1** rom on our **Zenfone 5** rom then you will know how to install **[CM13](http://en.wikipedia.org/wiki/CM_postcode_area "CM postcode area")** rom on **zenfone 5** rom. but if you haven't tried CM based or any other custom rom on **Zenfone 5** then i will teach you how to install this rom.
