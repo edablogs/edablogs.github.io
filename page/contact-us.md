@@ -1,11 +1,46 @@
 ---
 layout: page
-title: C0ntact us
+title: Contact us
 date: '2014-12-27T01:52:00.000+05:30'
 author: pawneshwer
 modified_time: '2016-02-20T06:51:04.871+05:30'
 ---
+<style type="text/css">
+input[type="text"] {
+    padding: 4px 5px;
+    border: 1px solid #d3d3d3;
+    border-radius: 2px;
+    color: #333333;
+}
+.contact-text {
+    padding: 9px 6px !important;
+    width: 387px !important;
+}
+.contact-textarea {
+    width: 395px !important;
+}
+input[type="submit"]:hover {
+    background-color: #2e2e2e;
+}
+input[type="submit"] {
+    border-radius: 2px;
+    background-color: #0594d4;
+    outline: 0;
+    border: 0;
+    padding: 5px 8px;
+    color: #ffffff;
+    margin: 2px 3px;
+    cursor: pointer;
+}
+.contact-button {
+    padding: 14px 53px !important;
+    margin-left: -3px !important;
+    margin-top: 20px !important;
+    font-weight: bold;
+    text-transform: uppercase;
+}
 
+</style>
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div class="ss-form">
 <form action="https://docs.google.com/forms/d/1xMw9ppLQrednu-FP7LTyK6Q9wg7SnaRD5rtjiDMs_rA/formResponse" id="ss-form" method="POST" onsubmit="" target="_self">
