@@ -2,9 +2,7 @@
 # Remember to set production_url in your _config.yml file!
 title : JSON
 ---
-{% if post.author %}
-{% assign author = site.authors[post.author] %}
-{% endif %}
+
 {
 	"version": "1.0",
 	"encoding": "UTF-8",
@@ -15,6 +13,9 @@ title : JSON
         "author": "{{ site.author.name }}",
         "post": [
 		{% for post in site.posts %}
+		{% if post.author %}
+{% assign author = site.authors[post.author] %}
+{% endif %}
             {
               "url": "{{ site.url }}{{ post.url }}",
               "title": {{ post.title | jsonify }},
