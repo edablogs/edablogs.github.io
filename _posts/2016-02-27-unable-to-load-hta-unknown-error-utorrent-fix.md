@@ -32,7 +32,9 @@ So i had easily fixed this by changing some registry settings. So to make this e
 
 1.  First of all download file from below link (**only 359 bytes**)
 
-[Download](https://dl.dropboxusercontent.com/u/55163217/utorrent_fix_win10_edablogs.reg "unable to load HTA: unknown error utorrent fix")
+### Link updated (on 26 May 2016)
+
+[Download](https://drive.google.com/file/d/0B2G6mkqvibyoLUpROGRlQUVKZm8/view?usp=sharing "unable to load HTA: unknown error utorrent fix")
 
 1.  After downloading this file double click on it and choose yes, then ok.
 2.  After doing this all open default apps option. (**for windows 10 goto start -> settings ->system -> Default [Apps](http://friendfeed.com/weloveapps "Apps")** )
