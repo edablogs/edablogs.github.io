@@ -1,0 +1,14 @@
+
+{% assign categories = page.categories %} 
+<div class="breadcrumbs">
+    <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+        <a itemprop='url' href="/"><span itemprop='title'>Home</span></a> &#187;
+    {% for category in categories %}
+		<a itemprop='url' href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category }}-ref"><span itemprop='title'>{{ category }}</span></a> &#187;
+		{% if forloop.last %}
+            <span itemprop='title'>{{ page.title }}</span>
+       
+        {% endif %}
+    {% endfor %}
+    </span>
+</div>

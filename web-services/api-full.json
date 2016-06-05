@@ -1,0 +1,32 @@
+---
+# Remember to set production_url in your _config.yml file!
+title : JSON
+---
+
+{
+	"version": "1.0",
+	"encoding": "UTF-8",
+      "feed": {
+        "homepage": "{{ site.url }}",
+        "name": "{{ site.title }}",
+        "description": "{{ site.tagline }}",
+        "author": "{{ site.author.name }}",
+        "post": [
+		{% for post in site.posts %}
+		{% if post.author %}
+{% assign author = site.authors[post.author] %}
+{% endif %}
+            {
+              "url": "{{ site.url }}{{ post.url }}",
+              "title": {{ post.title | jsonify }},
+              "thumbnail": "{{ post.thumbnail }}",
+              "author" : "{{ author.name }}",
+              "published_on": "{{ post.date }}",
+              "modified_on": "{{ post.modified_time }}",
+              "content": {{ post.content | jsonify }},
+              "tags": "{% for tag in post.tags %}{{ tag }}{% if forloop.rindex0 > 0 %}, {% endif %}{% endfor %}",
+              "categories": "{% for category in post.categories %}{{ category }}{% if forloop.rindex0 > 0 %}, {% endif %}{% endfor %}"
+            }{% if forloop.last %}{% else %},{% endif %}{% endfor %}
+        ]
+      }
+}

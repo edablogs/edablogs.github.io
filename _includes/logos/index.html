@@ -1,0 +1,171 @@
+
+<style type="text/css">
+html,body{-webkit-tap-highlight-color:rgba(0,0,0,0);}
+.platforms-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.platforms-list li {
+    text-align: center;
+}
+.not-working{
+    filter: grayscale(100%);
+    pointer-events: none;
+    -webkit-filter: grayscale(100%);
+}
+.platforms-list li:hover span {
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
+}
+.platforms-list a {
+    display: inline;
+    float: left;
+    width: 31.25%;
+    margin: 0 1.04166667%;
+    height: 200px;
+    color: #222222;
+    font-size: 18px;
+    text-decoration: none;
+    box-sizing: content-box;
+}
+.platforms-list a.androidcode span {
+    background: #99cc00;
+}
+.platforms-list a.javacode span {
+    background: #5382A1;
+}
+.platforms-list a.sqlitecode span {
+    background: #003B57;
+}
+.platforms-list a.phpcode span {
+    background: #6C7EB7;
+}
+.platforms-list a.mysqlcode span {
+    background: #00618A;
+}
+.platforms-list a.jscode span {
+    background: #E5A228;
+}
+.platforms-list a.jquerycode span {
+    background: #0868AC;
+}
+.platforms-list a.csscode span {
+    background: #1572B6;
+}
+.platforms-list a.htmlcode span {
+    background: #E44D26;
+}
+.platforms-list a span {
+    display: block;
+    width: 64px;
+    height: 64px;
+	box-shadow: 0 2px 8px rgba(0,0,0,0.54);
+    margin: 0 auto 15px;
+    padding: 30px;
+    border-radius: 100px;
+    box-sizing: content-box;
+    transition: 0.2s;
+}
+.platforms-list a span img {
+    display: block;
+    width: 64px;
+    height: 64px;
+}
+.platforms-list:after {
+  content: ' ';
+  display: block;
+  clear: both;
+}
+@media screen and (max-width: 600px) {
+	.platforms-list a{width:45%}
+
+}
+</style>
+<div id="container">
+<ul class="platforms-list">
+    
+            <li>
+                <a href="/android" class="androidcode" data-platform="Android Stuff">
+                    <span>
+                        <img src="/assets/logo/android-logo.png" alt="Android Stuff">
+                    </span>
+                    Android Stuff
+                </a>
+            </li>
+            <li>
+                <a href="/java" class="javacode" data-platform="Java Stuff">
+                    <span>
+                        <img src="/assets/logo/java-logo.png" alt="Java Stuff">
+                    </span>
+                    Java Stuff
+                </a>
+            </li>
+            <li>
+                <a href="/sqlite" class="sqlitecode not-working" data-platform="SQLite Stuff">
+                    <span>
+                        <img src="/assets/logo/sqlite-logo.png" alt="SQLite Stuff">
+                    </span>
+                    SQLite Stuff
+                </a>
+            </li>
+        
+    <li>
+                <a href="/html" class="htmlcode not-working" data-platform="HTML Stuff">
+                    <span>
+                        <img src="/assets/logo/html-logo.png" alt="HTML Stuff">
+                    </span>
+                    HTML Stuff
+                </a>
+            </li>
+        
+            <li>
+                <a href="/php" class="phpcode not-working" data-platform="PHP Stuff">
+                    <span>
+                        <img src="/assets/logo/php-logo.png" alt="PHP Stuff">
+                    </span>
+                    PHP Stuff
+                </a>
+            </li>
+        
+            <li>
+                <a href="/mysql" class="mysqlcode not-working" data-platform="MySQL Stuff">
+                    <span>
+                        <img src="/assets/logo/mysql-logo.png" alt="MySQL Stuff">
+                    </span>
+                    MySQL Stuff
+                </a>
+            </li>
+            
+            <li>
+                <a href="/javascript" class="jscode not-working" data-platform="JavaScript Stuff">
+                    <span>
+                        <img src="/assets/logo/js-logo.png" alt="JavaScript Stuff">
+                    </span>
+                    JavaScript Stuff
+                </a>
+            </li>
+        
+    
+        
+            <li>
+                <a href="/jquery" class="jquerycode not-working" data-platform="Jquery Stuff">
+                    <span>
+                        <img src="/assets/logo/jquery-logo.png" alt="Jquery Stuff">
+                    </span>
+                    Jquery Stuff
+                </a>
+            </li>
+        
+    
+        
+            <li>
+                <a href="/css" class="csscode not-working" data-platform="CSS Stuff">
+                    <span>
+                        <img src="/assets/logo/css-logo.png" alt="CSS Stuff">
+                    </span>
+                    CSS Stuff
+                </a>
+            </li>
+</ul>
+</div>

@@ -1,0 +1,63 @@
+{% if page.author %}
+{% assign author = site.authors[page.author] %}
+{% endif %}
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+{% include breadcrumbs.html %}
+  <header class="post-header">
+	<div class="cell"><img class="code-icon" src="{{ site.url }}/assets/icon/code-icon.svg" alt="code icon"/></div>
+	  <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+	  <div class="post-date"><span class="date-icon"></span><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ author.name }}</span></span><span>{% unless page.categories == empty %}
+    <div class="categories_box inline">
+      <i class="icon-folder-open"></i>
+      {% assign categories_list = page.categories %}
+      {% include JB/categories_list %}
+    </div></span>
+  {% endunless %}</div>
+	  </header>
+	  <div class="post-content" itemprop="articleBody">
+			{{ content }}
+	  </div>
+	  <div><b>Tagged with : </b></div>
+		{% unless page.tags == empty %}
+    <div class="tag_box inline">
+      <i class="icon-tags"></i>
+      {% assign tags_list = page.tags %}
+      {% include JB/tags_list %}
+    </div>
+  {% endunless %}
+  <br />
+	{% include share-pages.html %}
+	{% include author-info.html %}
+</article>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <h3>
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+<hr>
+    <div class="pagination">
+      {% if page.previous %}
+        <div class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></div>
+      {% else %}
+        <div class="prev disabled"><a>&larr; Previous</a></div>
+      {% endif %}
+        <div class="archive"><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></div>
+      {% if page.next %}
+        <div class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></div>
+      {% else %}
+        <div class="next disabled"><a>Next &rarr;</a></div>
+      {% endif %}
+    </div>
+    <hr>
+    {% include JB/comments %}
