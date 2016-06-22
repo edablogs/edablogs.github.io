@@ -35,6 +35,12 @@ paginate_path: "page:num/"
 #
 production_url : http://edablogs.com
 
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+  
 authors: 
   pawneshwer: 
     name: "Pawneshwer Gupta"
