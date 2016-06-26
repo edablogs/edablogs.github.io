@@ -21,8 +21,8 @@ title : JSON
               "title": {{ post.title | jsonify }},
               "thumbnail": "{{ post.thumbnail }}",
               "author" : "{{ author.name }}",
-              "published_on": "{{ post.date }}",
-              "modified_on": "{{ post.modified_time }}",
+              "published_on": "{{ post.date | date: "%B %d, %Y" }}",
+              "modified_on": "{{ post.modified_time | date: "%B %d, %Y" }}",
               "content": {{ post.content | jsonify }},
               "tags": "{% for tag in post.tags %}{{ tag }}{% if forloop.rindex0 > 0 %}, {% endif %}{% endfor %}",
               "categories": "{% for category in post.categories %}{{ category }}{% if forloop.rindex0 > 0 %}, {% endif %}{% endfor %}"
