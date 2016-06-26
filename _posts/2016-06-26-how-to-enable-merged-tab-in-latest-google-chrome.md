@@ -23,7 +23,7 @@ Merge tab feature will move Google chrome's tabs into recent task. which means M
 *   You need to root your device to continue, if you don't want to root your device then leave this post. Otherwise proceed further.
 *   After rooting your device install Xposed Framework on your mobile.
 *   Now install "[XposedEnableMergedTabs](http://dl-xda.xposed.info/modules/com.suyashsrijan.xposedenablemergedtabs_v2_96e309.apk)" module.
-*   Open Xposed Installer and goto "Modules".
+*   Open Xposed Installer and goto "Modules" settings.
 *   Inside Modules enable "XposedEnableMergedTabs" this module and restart your device.
 *   First time clear **cache** and **cookies** of google chrome and done.
 *   No need to configure anything.
