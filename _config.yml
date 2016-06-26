@@ -25,7 +25,6 @@ author:
   email:             pawneshwergupta@gmail.com
 paginate: 4
 paginate_path: "page:num/"
-paginate_path2: "/api/page:num/"
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
@@ -73,7 +72,7 @@ authors:
          "I am Software developer and web developer and also part time blogger."
 logo: '/assets/logo.png'
 
-gems: ["jekyll-sitemap","jekyll-paginate2"]
+gems: ["jekyll-sitemap"]
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
