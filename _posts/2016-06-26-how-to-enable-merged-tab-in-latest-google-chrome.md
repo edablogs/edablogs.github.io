@@ -12,6 +12,8 @@ categories: ["android"]
 
 {% include JB/setup %}
 
+[![How to Enable Merged tab in latest Google chrome]({{site.url}}/wp-content/uploads/2016/06/Google-Chrome-4-e1424223062841-300x243.png)]({{site.url}}/wp-content/uploads/2016/06/Google-Chrome-4-e1424223062841.png)
+
 **Hello guys !!!** [Google](http://www.google.com "Google") had launched a new feature in [Google Chrome](http://en.wikipedia.org/wiki/Google_Chrome "Google Chrome") that is called as Merged Tab, which is only available on [Android](http://code.google.com/android/ "Android") Lollipop and higher version of android. but in new update google again removed this feature. This feature is awesome and some of us like this feature as well. Those who haven't updated their google chrome because they don't want to lose this merged tab feature, they can now update their google chrome to latest version because i have fix for this feature. By using this module you can turn on Merged tab on latest google chrome.
 
 ## <span style="color: #ff6600;">What is Merged tab in google chrome ???</span>
