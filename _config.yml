@@ -72,7 +72,7 @@ authors:
          "I am Software developer and web developer and also part time blogger."
 logo: '/assets/logo.png'
 
-gems: ["jekyll-sitemap"]
+gems: ["jekyll-sitemap","jekyll-redirect-from"]
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
