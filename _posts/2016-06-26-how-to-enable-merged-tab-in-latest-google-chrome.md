@@ -8,6 +8,7 @@ keywords: enable merged tan in google chrome,merged tab in latest google chrome,
 comments: true
 tags: ["chrome","android","xposed module"]
 categories: ["android"]
+thumbnail: http://edablogs.com/wp-content/uploads/2016/06/Google-Chrome-4-e1424223062841-300x243.png
 ---
 
 {% include JB/setup %}
