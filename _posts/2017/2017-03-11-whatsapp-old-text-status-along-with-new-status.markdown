@@ -8,7 +8,7 @@ keywords: whatsapp status,whatsapp whatsapp status old, old style whatsapp statu
 comments: true
 tags: ["whatsapp","android"]
 categories: ["android"]
-thumbnail: http://localhost/wordpress/wp-content/uploads/2017/03/How-to-Direct-Download-Whatsapp-Beta-each-time-it-gets-Released.png
+thumbnail: http://edablogs.com/wp-content/uploads/2017/03/How-to-Direct-Download-Whatsapp-Beta-each-time-it-gets-Released.png
 ---
 
 {% include JB/setup %}
