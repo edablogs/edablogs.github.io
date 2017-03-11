@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: http://learnpainless.com/sitemap.xml
+Sitemap: http://edablogs.com/sitemap.xml
