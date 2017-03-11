@@ -46,6 +46,17 @@ So if you can use **TWRP recovery** then you can easily install fastboot in your
 4.  Now move the slider to Right and wait till [Installation](http://en.wikipedia.org/wiki/Installation_%28computer_programs%29 "Installation (computer programs)") complete.
 5.  When installation complete successfully your mobile will restart automatically.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- eda-posts -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7943122633795545"
+     data-ad-slot="7080728318"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Now you can start your mobile into fastboot. If you are facing this problem after flashing this patch then comment below i will help you further. If you are **facing any issue while flashing** this patch then send me screenshot or Image of that problem. I will solve your problem.
 
 If this post really helpful for you then Comment below and also share this post with your friends.

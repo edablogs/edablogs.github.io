@@ -63,4 +63,15 @@ So let me continue about how to root zenfone 5 kitkat version without PC.
 
 [![Root zenfone 5 Kitkat version without PC](http://3.bp.blogspot.com/-bMWa_khcmIA/VZAZrNfVDaI/AAAAAAAAGs0/yrypy_EUiXY/s320/Root-zenfone-5-Kiatkat-version-without-PC.jpg "Root zenfone 5 Kitkat version without PC")](http://3.bp.blogspot.com/-bMWa_khcmIA/VZAZrNfVDaI/AAAAAAAAGs0/yrypy_EUiXY/s1600/Root-zenfone-5-Kiatkat-version-without-PC.jpg)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- eda-posts -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7943122633795545"
+     data-ad-slot="7080728318"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Now your mobile is rooted, Enjoy. To unroot open Super SU app in your mobile (<span style="color: red;">* this app will be added automatically after root</span>) , goto its settings and select "**Full unroot**" and done. Your mobile unrooted successfully, no PC required.We done **rooting without pc**. share this method with your friends too. so they can also take benefit of our article about **rooting without pc.**

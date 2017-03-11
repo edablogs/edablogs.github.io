@@ -34,6 +34,17 @@ redirect_from:
 2.  **[ADB Installer](https://drive.google.com/file/d/0B0MKgCbUM0itVVFWRC02Q0VBQnc/view?usp=sharing)**
 3.  **[Adb and Fastboot Tools](http://sh.st/xBqo9)**
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- eda-posts -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7943122633795545"
+     data-ad-slot="7080728318"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### Follow Procedure:-
 
 1.  Install **_Intel Driver_** as an Usual Software (No Need To **_Run In [Compatibility Mode](http://en.wikipedia.org/wiki/Compatibility_mode "Compatibility mode")_** Anymore ) .

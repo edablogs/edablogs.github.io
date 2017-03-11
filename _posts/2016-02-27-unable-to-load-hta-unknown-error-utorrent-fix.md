@@ -32,20 +32,31 @@ So i had easily fixed this by changing some registry settings. So to make this e
 
 ## <span style="color: #ff6600;">How to fix this problem :</span>
 
-1.  First of all download file from below link (**only 359 bytes**)
+*  First of all download file from below link (**only 359 bytes**)
 
 ### Link updated (on 26 May 2016)
 
 [Download](https://drive.google.com/file/d/0B2G6mkqvibyoLUpROGRlQUVKZm8/view?usp=sharing "unable to load HTA: unknown error utorrent fix")
 
-1.  After downloading this file double click on it and choose yes, then ok.
-2.  After doing this all open default apps option. (**for windows 10 goto start -> settings ->system -> Default [Apps](http://friendfeed.com/weloveapps "Apps")** )
-3.  Now click on "**set default by apps**" look at below screenshot.
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- eda-posts -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7943122633795545"
+     data-ad-slot="7080728318"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+*  After downloading this file double click on it and choose yes, then ok.
+*  After doing this all open default apps option. (**for windows 10 goto start -> settings ->system -> Default [Apps](http://friendfeed.com/weloveapps "Apps")** )
+*  Now click on "**set default by apps**" look at below screenshot.
 
 [![Unable to load HTA: Unknown Error uTorrent fix](https://3.bp.blogspot.com/-BOTE7YknRKM/VtFE_R-oNmI/AAAAAAAAIaU/G8pcMjbTIfE/s320/utorrent%2B1%2Bcopy.png "Unable to load HTA: Unknown Error uTorrent fix")](https://3.bp.blogspot.com/-BOTE7YknRKM/VtFE_R-oNmI/AAAAAAAAIaU/G8pcMjbTIfE/s1600/utorrent%2B1%2Bcopy.png)
 
-1.  Now select "**uTorrent**" from left side and click on "**set this program as default**".
+*  Now select "**uTorrent**" from left side and click on "**set this program as default**".
 
 [![Unable to load HTA: Unknown Error uTorrent fix](https://2.bp.blogspot.com/-kAgS-DNt8Zg/VtFFAWM_r2I/AAAAAAAAIaY/4jQ2nvtOUJ0/s1600/utorrent%2B2%2Bcopy.png "Unable to load HTA: Unknown Error uTorrent fix")](https://2.bp.blogspot.com/-kAgS-DNt8Zg/VtFFAWM_r2I/AAAAAAAAIaY/4jQ2nvtOUJ0/s1600/utorrent%2B2%2Bcopy.png)
 
-1.  And close all windows, Restart uTorrent and done.
+*  And close all windows, Restart uTorrent and done.
