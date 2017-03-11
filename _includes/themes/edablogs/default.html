@@ -11,7 +11,7 @@
         {% include main-nav.html %}
 <div class="clear"></div>
             <div id="content-wrapper">
-            <!-- {% include left-sidebar.html %} -->
+
                 <div id="main-wrapper">
                     {{ content }}
                 </div>
@@ -25,7 +25,7 @@
     <script>
 	var months=["January","February","March","April","May","June","July","August","September","October","November","December"];var date=new Date();var day=date.getDate();var month=date.getMonth();var yy=date.getYear();var year=(yy<1000)?yy+1900:yy;document.getElementById("top-date").innerHTML=months[month]+" "+day+", "+year;function showTime(){var c="";var a=new Date();var e=a.getHours();var d=a.getMinutes();var b=a.getSeconds();if(e<12){c="AM"}else{c="PM"}if(e==0){e=12}if(e>12){e=e-12}e=checkTime(e);d=checkTime(d);b=checkTime(b);document.getElementById("top-clock").innerHTML=e+":"+d+":"+b+" "+c}function checkTime(a){if(a<10){a="0"+a}return a}setInterval(showTime,500);
 
-	<!-- function for responsive menu -->
+
 	function callResponsive() {
 		document.getElementsByClassName("eda-menu")[0].classList.toggle("responsive");
 	}
