@@ -15,7 +15,7 @@ thumbnail: http://edablogs.com/wp-content/uploads/2017/03/unlimited-downloading-
 
 Hello guys,
 
-You all know that JIO had announced unlimited downloading without speed capping at night from 2A.M. to 5A.M. (Happy hours). Which is great offer to download big files. but problem is that you have to stay awake from 2A.M. to 5A.M. to download your files, which is too hard for we lazy persons 😄 .
+You all know that JIO had announced unlimited downloading without speed capping at night from 2A.M. to 5A.M. (Happy hours). Which is great offer to download big files. but problem is that you have to stay awake from 2A.M. to 5A.M. to download your files, which is too hard for we lazy persons 😁 .
 
 So you can enjoy this Happy hours without waking at night, yes you can enjoy this benefit while you are sleeping.
 
@@ -78,4 +78,4 @@ You can use Advanced Download Manager (ADM) from playstore. benefit of ADM is it
  	<li>You can pause multiple files and they will be downloaded automatically.</li>
  	<li>Enjoy.</li>
 </ol>
-#### Share with your friends too, so your friends can also get benefit of JIO Happy hours. Because i know that your friend is also lazy person but he is still download files by waking at 2A.M. 😄😄 . So share with them so they can sleep tight.
+#### Share with your friends too, so your friends can also get benefit of JIO Happy hours. Because i know that your friend is also lazy person but he is still download files by waking at 2A.M. 😁😁😂😂 . So share with them so they can sleep tight.
