@@ -78,7 +78,7 @@ so its better to wait for whatsapp to rollout latest whatsapp with both whatsapp
 [![whatsapp-status-send-gif]({{site.url}}/wp-content/uploads/2017/03/whatsapp-status-send-gif-169x300.png)]({{site.url}}/wp-content/uploads/2017/03/whatsapp-status-send-gif.png) [![whatsapp-status-search-gif]({{site.url}}/wp-content/uploads/2017/03/whatsapp-status-search-gif-169x300.png)]({{site.url}}/wp-content/uploads/2017/03/whatsapp-status-search-gif.png) [![whatsapp-status-old-style-status]({{site.url}}/wp-content/uploads/2017/03/whatsapp-status-old-style-status-169x300.png)]({{site.url}}/wp-content/uploads/2017/03/whatsapp-status-old-style-status.png) [![whatsapp-status-new-style-status]({{site.url}}/wp-content/uploads/2017/03/whatsapp-status-new-style-status-169x300.png)]({{site.url}}/wp-content/uploads/2017/03/whatsapp-status-new-style-status.png) [![whatsapp-status-new-screen]({{site.url}}/wp-content/uploads/2017/03/whatsapp-status-new-screen-169x300.png)]({{site.url}}/wp-content/uploads/2017/03/whatsapp-status-new-screen.png) [![whatsapp-status-chat-floating]({{site.url}}/wp-content/uploads/2017/03/whatsapp-status-chat-floating-169x300.png)]({{site.url}}/wp-content/uploads/2017/03/whatsapp-status-chat-floating.png) [![whatsapp-status-attachment-bottom]({{site.url}}/wp-content/uploads/2017/03/whatsapp-status-attachment-bottom-169x300.png)]({{site.url}}/wp-content/uploads/2017/03/whatsapp-status-attachment-bottom.png)
 
 <script src="{{site.url}}/assets/themes/edablogs/js/jssor.slider-22.2.16.mini.js" type="text/javascript"></script>
-    <script type="text/javascript">
+<script type="text/javascript">
         jssor_1_slider_init = function() {
 
             var jssor_1_SlideshowTransitions = [
