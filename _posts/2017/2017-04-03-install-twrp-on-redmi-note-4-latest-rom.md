@@ -39,7 +39,10 @@ Just download MIUI Toolkit from link below and continue to install steps.
 <p style="text-align: center;"><a href="http://dl.edablogs.com/TWRP_Redmi_Note4.zip" class="btn">Download MIUI ToolKit</a></p>
 
 <ul>
- 	<li>Now extract the zip file and open install.jar file. (You need to install Java runtime environment on your system to run this install.jar file. Download java runtime environment from here)</li>
+ 	<li>Now extract the zip file and open install.jar file. (You need to install Java runtime environment on your system to run this install.jar file. Download java runtime environment from below button)</li>
+</ul>
+<p style="text-align: center;"><a href="https://java.com/en/download/" class="btn">Java</a></p>
+<ul>
  	<li>Now restart your mobile into fastboot mode. (Please make sure that you have unlocked bootloader)</li>
  	<li>Now click on install TWRP button on MIUI Toolkit.</li>
  	<li>If it shows green done icon which means you have successfully installed TWRP.</li>
@@ -47,5 +50,7 @@ Just download MIUI Toolkit from link below and continue to install steps.
  	<li>And your mobile will reboot into TWRP recovery.</li>
 </ul>
 <a href="http://edablogs.com/wp-content/uploads/2017/04/install-twrp-on-redmi-note-4-latest-rom_2.png"><img class="alignnone size-medium wp-image-94" src="http://edablogs.com/wp-content/uploads/2017/04/install-twrp-on-redmi-note-4-latest-rom_2-169x300.png" alt="Install TWRP on Redmi Note 4 latest rom" width="169" height="300" /></a> <a href="http://edablogs.com/wp-content/uploads/2017/04/install-twrp-on-redmi-note-4-latest-rom_1.png"><img class="alignnone size-medium wp-image-93" src="http://edablogs.com/wp-content/uploads/2017/04/install-twrp-on-redmi-note-4-latest-rom_1-169x300.png" alt="Install TWRP on Redmi Note 4 latest rom" width="169" height="300" /></a>
+
+<a href="https://youtu.be/Rl1GOfuLEgI" class="btn">watch this video for proof</a>
 
 If you want to root and install xposed framework then i will add new post.
