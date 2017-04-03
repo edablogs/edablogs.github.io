@@ -54,6 +54,17 @@ Hello zenfone 5 users there is a good news for you all that unofficial [Android]
 
 **solution** : Try using [TuneIn](http://www.tunein.com "TuneIn") Radio, a lot of local radios are already there.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- eda-posts -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7943122633795545"
+     data-ad-slot="7080728318"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## <span style="color: #339966;">How to install CM13 rom on Asus Zenfone 5 ?</span>
 
 *   First of all [unlock bootloadter](http://edablogs.com/asus/zenfone/Lock-unlock-bootloader-in-asus-zenfone "Unlock bootloader Asus Zenfone 5") check here.
@@ -67,6 +78,6 @@ Hello zenfone 5 users there is a good news for you all that unofficial [Android]
 
 ## <span style="color: #339966;">Working Xposed framework for CM13 rom Asus Zenfone 5</span>
 
-[Download Xposed](http://dl.edablogs.com/cm13/x86/xposed-v82-sdk23-x86.zip) 
+[Download Xposed](http://dl.edablogs.com/cm13/x86/xposed-v82-sdk23-x86.zip)
 
 ## <span style="color: #339966;">ScreenShots :</span> [![CM13 stable rom for Zenfone 5 MarshMallows Reviews]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_5-168x300.png)]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_5.png) [![CM13 stable rom for Zenfone 5 MarshMallows Reviews]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_4-168x300.png)]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_4.png) [![CM13 stable rom for Zenfone 5 MarshMallows Reviews]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_3-168x300.png)]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_3.png) [![CM13 stable rom for Zenfone 5 MarshMallows Reviews]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_2-168x300.png)]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_2.png) [![CM13 stable rom for Zenfone 5 MarshMallows Reviews]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_1-168x300.png)]({{ site.url }}/res/2016/04/cm13-rom-for-zenfone-5_1.png)

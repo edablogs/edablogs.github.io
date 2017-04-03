@@ -35,3 +35,14 @@ https://drive.google.com/file/d/0B0lCHCvFdDJjQ1lMai1FNWxzb2M/view?usp=sharing
 3. Run fix adb.bat (if phone is working is in adb mode)
 
 4. Run fix bootloader.bat (if phone is in fastboot mode)
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- eda-posts -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7943122633795545"
+     data-ad-slot="7080728318"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>

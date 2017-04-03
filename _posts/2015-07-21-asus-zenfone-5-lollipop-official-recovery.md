@@ -42,6 +42,17 @@ Recently [ASUS](http://en.wikipedia.org/wiki/Asus "Asus") has released _latest L
 3.  Now restart your mobile into [Fastboot](http://en.wikipedia.org/wiki/Android_software_development "Android software development") (<span style="color: red;">Droidboot</span>) mode.
 4.  And in command prompt type below command to flash recovery.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- eda-posts -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7943122633795545"
+     data-ad-slot="7080728318"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 > <span style="color: blue; font-size: large;">fastboot flash recovery recovery.img</span>
 
 [![Lone theme port for Zenfone 5 Stock lollipop](https://2.bp.blogspot.com/-jvMO-7oJoVY/Va5BnN29pQI/AAAAAAAAHMg/amWdEhK3yT0/s640/Asus-Zenfone-5-Lollipop-official-recovery-img-1.png "Lone theme port for Zenfone 5 Stock lollipop")](https://2.bp.blogspot.com/-jvMO-7oJoVY/Va5BnN29pQI/AAAAAAAAHMg/amWdEhK3yT0/s640/Asus-Zenfone-5-Lollipop-official-recovery-img-1.png)
