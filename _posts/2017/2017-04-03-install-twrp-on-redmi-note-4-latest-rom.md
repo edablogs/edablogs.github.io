@@ -36,7 +36,7 @@ Just download MIUI Toolkit from link below and continue to install steps.
 <ul>
  	<li>First of all download MIUI Toolkit from link below.</li>
 </ul>
-<p style="text-align: center;"><a href="http://dl.edablogs.com/TWRP_Redmi_Note4.zip">Download MIUI ToolKit</a></p>
+<p style="text-align: center;"><a href="http://dl.edablogs.com/TWRP_Redmi_Note4.zip" class="btn">Download MIUI ToolKit</a></p>
 
 <ul>
  	<li>Now extract the zip file and open install.jar file. (You need to install Java runtime environment on your system to run this install.jar file. Download java runtime environment from here)</li>
