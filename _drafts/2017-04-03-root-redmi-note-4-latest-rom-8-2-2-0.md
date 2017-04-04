@@ -17,9 +17,7 @@ Hello guys here is another post for Redmi note 4 latest rom v8.1.15.0 and v8.2.2
 
 <a href="http://edablogs.com/wp-content/uploads/2017/04/install-twrp-on-redmi-note-4-latest-rom.png"><img class="alignnone size-medium wp-image-95" src="http://edablogs.com/wp-content/uploads/2017/04/install-twrp-on-redmi-note-4-latest-rom.png" alt="Install TWRP on Redmi Note 4 latest rom" width="300" height="137" /></a>
 
-So i posted tool to install TWRP on latest redmi note 4 v8.1.15.0 and v8.2.2.0.l 
-
-<a href="http://edablogs.com/twrp/install-twrp-on-redmi-note-4-latest-rom" class="btn">here</a>.
+So i posted tool to install TWRP on latest redmi note 4 v8.1.15.0 and v8.2.2.0 <a href="http://edablogs.com/twrp/install-twrp-on-redmi-note-4-latest-rom">here</a>
 
 After installing TWRP recovery on your mobile you can continue to Root your mobile.
 
